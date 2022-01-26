@@ -1,3160 +1,629 @@
 #EXTM3U
-#EXTINF:0,01 | STAR CHANNEL UHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2693
-#EXTINF:0,02 | STAR ACTION UHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2694
-#EXTINF:0,03 | STAR CINEMA UHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2695
-#EXTINF:0,04 | STAR COMEDY UHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2696
-#EXTINF:0,05 | STAR FAMILY UHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2697
-#EXTINF:0,06 | STAR MOVIE UHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2698
-#EXTINF:0,07 | STAR SERIES UHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2786
-#EXTINF:0,08 | FOX SPORTS UHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2787
-#EXTINF:0,09 | FOX SPORTS 2 UHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2788
-#EXTINF:0,10 | FOX SPORTS 3 UHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2789
-#EXTINF:0,11 | HBO UHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2790
-#EXTINF:0,12 | HBO 2 UHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2791
-#EXTINF:0,13 | HBO FAMILY UHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2792
-#EXTINF:0,14 | HBO PLUS UHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2793
-#EXTINF:0,15 | HBO SIGNATURE UHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2794
-#EXTINF:0,16 | HBO POP UHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2795
-#EXTINF:0,17 | HBO MUNDI
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2796
-#EXTINF:0,18 | TNT UHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2797
-#EXTINF:0,19 | TNT SERIES UHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2798
-#EXTINF:0,20 | NATGEO®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2799
-#EXTINF:0,21 | ANIMAL PLANET ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2800
-#EXTINF:0,22 | AXN®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2801
-#EXTINF:0,23 | BOOMERANG UHD®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2802
-#EXTINF:0,24 | CARTOON NETWORK ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2803
-#EXTINF:0,25 | CINE CANAL ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2804
-#EXTINF:0,26 | COMEDY CENTRAL ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2805
-#EXTINF:0,27 | HBO 2 ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2806
-#EXTINF:0,28 | DISCOVERY CHANNEL®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2807
-#EXTINF:0,29 | DISCOVERY CIVILITATION ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2808
-#EXTINF:0,30 | DISCOVERY H&H ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2809
-#EXTINF:0,31 | DISCOVERY ID ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2810
-#EXTINF:0,32 | DISCOVERY KIDS ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2811
-#EXTINF:0,33 | DISCOVERY SCIENCE ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2812
-#EXTINF:0,34 | DISCOVERY TURBO ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2813
-#EXTINF:0,35 | DISCOVERY WORLD ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2814
-#EXTINF:0,36 | DISNEY CHANNEL 
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2815
-#EXTINF:0,37 | DISNEY JR ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2819
-#EXTINF:0,38 | DISNEY XD ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2820
-#EXTINF:0,39 | ESPN 2 ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2821
-#EXTINF:0,40 | ESPN 3
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2822
-#EXTINF:0,41 | ESPN ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2823
-#EXTINF:0,42 | FXM ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2824
-#EXTINF:0,43 | HISTORY ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2825
-#EXTINF:0,44 | PARAMOUNT ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2826
-#EXTINF:0,45 | PASIONES ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2827
-#EXTINF:0,46 | SONY ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3007
-#EXTINF:0,47 | SPACE ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3008
-#EXTINF:0,48 | STUDIO UNIVERSAL ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3009
-#EXTINF:0,49 | SYFY ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3010
-#EXTINF:0,50 | TLC ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3011
-#EXTINF:0,51 | UNIVERSAL CHANNEL ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3012
-#EXTINF:0,52 | WARNER ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3013
-#EXTINF:0,53 | ESPN PLUS ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3014
-#EXTINF:0,54 | MAX PRIME ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3015
-#EXTINF:0,55 | DISCOVERY THEATER ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3016
-#EXTINF:0,56 | FX ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3017
-#EXTINF:0,57 | H2 ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3018
-#EXTINF:0,58 | AMC ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3019
-#EXTINF:0,59 | A&E ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3020
-#EXTINF:0,60 | FILM&ARTS UHD®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3021
-#EXTINF:0,61 | NICK 2 ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3022
-#EXTINF:0,62 | NICK ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3023
-#EXTINF:0,63 | TELEMUNDO ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3024
-#EXTINF:0,64 | WIN SPORTS ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3025
-#EXTINF:0,65 | AZ CLICK ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3026
-#EXTINF:0,66| DHE ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3028
-#EXTINF:0,67 | E ENTERTAIMENTS ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3029
-#EXTINF:0,68 | GOLF CHANNEL ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3030
-#EXTINF:0,69| MTV®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3031
-#EXTINF:0,70 | STAR TVE HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3032
-#EXTINF:0,71 | SUNDANCE ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3033
-#EXTINF:0,72 | CANAL U ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3034
-#EXTINF:0,73 | VH1 ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3035
-#EXTINF:0,74 | ESPN SUR ® 
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3036
-#EXTINF:0,75 | ESPN 2 SUR ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3037
-#EXTINF:0,76 | ESPN 3 SUR ® 
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3038
-#EXTINF:0,77 | FOX SPORTS 1 SUR ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3039
-#EXTINF:0,78 | FOX SPORTS 3 SUR ®
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3041
-#EXTINF:0,01 |  MC 90's
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3173
-#EXTINF:0,02 | VEVO 4K Hits
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3174
-#EXTINF:0,03 |  VEVO 70's Hits
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3175
-#EXTINF:0,04 |  VEVO 80's Hits
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3176
-#EXTINF:0,05 | VEVO 90's Hits
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3177
-#EXTINF:0,06 |  VEVO Country Hits 2K
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3178
-#EXTINF:0,07 |  VEVO R&B Hits 2K
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3179
-#EXTINF:0,08 | VEVO ONLY Hits 2K
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3180
-#EXTINF:0,09 | VEVO Hip Hop Hits 
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3181
-#EXTINF:0,10 | VEVO Latino Hits 2K
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3182
-#EXTINF:0,11 | LATIDO 2K Music Hits 
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3183
-#EXTINF:0,12 |  World Street Music Hits
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3184
-#EXTINF:0,13 | Euro Indie Music UK
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3185
-#EXTINF:0,14 |  First Music 4K RU
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3186
-#EXTINF:0,15 | VEVO Only Hits 2K 
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3187
-#EXTINF:0,16 |   VEVO World Hits 2K
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3188
-#EXTINF:0,17 |  Vevo Reggaetón & Trap 2K
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3189
-#EXTINF:0,18 | Telemusica 2K Hits
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3190
-#EXTINF:0,19 |  M2o Tv Y2K
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3191
-#EXTINF:0,02 | Telemundo Boston HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3205
-#EXTINF:0,03 | Telemundo Chicago HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3206
-#EXTINF:0,04 | Telemundo Dallas HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3207
-#EXTINF:0,05 | Telemundo Fresno HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3208
-#EXTINF:0,06 | Telemundo HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3209
-#EXTINF:0,07 | Telemundo Las Vegas HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3210
-#EXTINF:0,08 | Telemundo Los Angeles HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3211
-#EXTINF:0,09 | Telemundo Miami HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3212
-#EXTINF:0,11 | Telemundo National West
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3214
-#EXTINF:0,12 | Telemundo New York UHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3215
-#EXTINF:0,13 | Telemundo Orlando
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3216
-#EXTINF:0,14 | Telemundo Philadelphia HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3217
-#EXTINF:0,15 | Telemundo Phoenix Arizona HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3218
-#EXTINF:0,16 | Telemundo Salt Lake City
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3219
-#EXTINF:0,17 | Telemundo San Diego HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3220
-#EXTINF:0,18 | Telemundo San Francisco HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3221
-#EXTINF:0,19 | Telemundo San Fransisco HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3222
-#EXTINF:0,20 | Telemundo Washington HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3224
-#EXTINF:0,07 | Univision Atlanta
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3240
-#EXTINF:0,08 | Univision Austin
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3241
-#EXTINF:0,09 | Univision Cleveland
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3242
-#EXTINF:0,10 | Univision Fresno
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3243
-#EXTINF:0,11 | Univision Philadelphia
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3244
-#EXTINF:0,12 | Univision Phoenix
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3245
-#EXTINF:0,13 | Univision Georgia
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3246
-#EXTINF:0,14 | Univision Salt Lake
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3247
-#EXTINF:0,15 | Univision San Antonio
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3248
-#EXTINF:0,16 | Univision San Francisco
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3249
-#EXTINF:0,17 | Univision Albuquerque Santa Fe
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3250
-#EXTINF:0,18 | Univision Chicago
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3251
-#EXTINF:0,19 | Univision Miami
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3252
-#EXTINF:0,20 | Univision DALLAS
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3253
-#EXTINF:0,21 | Univision EAST
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3254
-#EXTINF:0,22 | Univision Houston
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3255
-#EXTINF:0,23 | Univision LA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3256
-#EXTINF:0,24 | Univision NY
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3257
-#EXTINF:0,25 | Univision WEST
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3258
-#EXTINF:0,26 | Univision Puerto Rico
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3259
-#EXTINF:0,27 | UniMas Albuquerque Santa Fe
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3260
-#EXTINF:0,28 | UniMas San Antonio
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3261
-#EXTINF:0,29 | UniMas Atlanta
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3262
-#EXTINF:0,30 | UniMas_Fresno
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3263
-#EXTINF:0,31 | UniMas Georgia HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3264
-#EXTINF:0,32 | UniMas Philadelphia
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3265
-#EXTINF:0,33 | UniMas Cleveland
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3266
-#EXTINF:0,34 | UniMas Salt Lake
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3267
-#EXTINF:0,35 | UniMas San Francisco
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3268
-#EXTINF:0,36 | UniMas Las Vegas
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3269
-#EXTINF:0,37 | UniMas Austin
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3270
-#EXTINF:0,01 | TVN HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3306
-#EXTINF:0,02 | TELETRAK HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3307
-#EXTINF:0,03 | MEGA 
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3308
-#EXTINF:0,01 | FOX SPORTS 1 HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3309
-#EXTINF:0,04 | 24 HORAS HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3310
-#EXTINF:0,02 | FOX SPORTS 2 HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3312
-#EXTINF:0,03 | TNT SPORTS
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3313
-#EXTINF:0,06 | LA RED 
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3315
-#EXTINF:0,07 | CNN CHILE 
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3316
-#EXTINF:0,---- PERU ----
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3318
-#EXTINF:0,01 | AMERICA TV HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3319
-#EXTINF:0,02 | ATV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3320
-#EXTINF:0,03 | LATINA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3321
-#EXTINF:0,04 | CANAL N
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3324
-#EXTINF:0,05 | GOL PERU
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3325
-#EXTINF:0,06 | MOVISTAR DEPORTES
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3326
-#EXTINF:0,07 | MOVISTAR PLUS
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3327
-#EXTINF:0,08 | PANAMERICANA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3328
-#EXTINF:0,09 | PLUS TV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3329
-#EXTINF:0,10 | TV PERU
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3330
-#EXTINF:0,11 | CANAL IPE HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3331
-#EXTINF:0,12 | MOVISTAR DEPORTES
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3332
-#EXTINF:0,13 | CANAL N
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3333
-#EXTINF:0,14 | LATINA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3334
-#EXTINF:0,15 | MOVISTAR DEPORTES
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3335
-#EXTINF:0,16 | MOVISTAR TV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3336
-#EXTINF:0,17 | AMERICA TV PERU
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3337
-#EXTINF:0,18 | CMD PERU
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3338
-#EXTINF:0,19 | PANAMERICANA PERU
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3339
-#EXTINF:0,20 | PERU MAGICO
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3340
-#EXTINF:0,21 | PLUS TV PERU
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3341
-#EXTINF:0,22 | GOLPERU
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3342
-#EXTINF:0,23 | Cultura 24
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3345
-#EXTINF:0,24 | GOL PERU FHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3347
-#EXTINF:0,25 | GOL PERU HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3348
-#EXTINF:0,26 | LATINA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3349
-#EXTINF:0,27 | PANAMERICANA HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3350
-#EXTINF:0,28 | PERU MAGICO HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3351
-#EXTINF:0,29 | RPP HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3352
-#EXTINF:0,30 | ATV +
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3353
-#EXTINF:0,08 | TVN HD 
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3525
-#EXTINF:0,04 | DIRECTV SPORTS CHILE
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3526
-#EXTINF:0,05| FOX SPORTS HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3527
-#EXTINF:0,06|  ESPN 2 CHILE
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3528
-#EXTINF:0,09| MEGA HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3529
-#EXTINF:0,07 | TNT SPORTS UHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3530
-#EXTINF:0,10 | CNN ESPAÑOL CHILE
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3531
-#EXTINF:0,11 | CANAL 13 C
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3532
-#EXTINF:0,12 |  24 HORAS CL
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3533
-#EXTINF:0,01 | TV PUBLICA HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3534
-#EXTINF:0,02 | TELEMAX 
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3535
-#EXTINF:0,03 | TELEFE 
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3536
-#EXTINF:0,04 | PAKA PAKA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3537
-#EXTINF:0,05 | LN+
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3538
-#EXTINF:0,06 | CANAL 9 HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3539
-#EXTINF:0,07 | DEPORTV 
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3540
-#EXTINF:0,08 | CRONICA 
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3541
-#EXTINF:0,09 | CANAL 9 HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3542
-#EXTINF:0,10 | CANAL 26 
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3543
-#EXTINF:0,11 | VOLVER 
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3544
-#EXTINF:0,12 | TELESUR 
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3545
-#EXTINF:0,13 | CANAL DEL SENADO 
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3546
-#EXTINF:0,14 | CANAL RURAL 
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3547
-#EXTINF:0,15 | QUIERO MUSICA 
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3548
-#EXTINF:0,16 | GARAGE TV 
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3549
-#EXTINF:0,17 | CIUDAD MAGAZINE 
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3550
-#EXTINF:0,18 | CINEAR 
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3551
-#EXTINF:0,19 | CANAL DE LA MUSICA 
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3552
-#EXTINF:0,20 | CANAL 13 
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3553
-#EXTINF:0,21 | VOLVER
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3554
-#EXTINF:0,22 | TV PUBLICA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3555
-#EXTINF:0,23 | TODO NOTICIAS
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3556
-#EXTINF:0,24 | TELESUR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3557
-#EXTINF:0,25 | TELEMAX
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3558
-#EXTINF:0,26 | TELEFE
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3559
-#EXTINF:0,27 | CANAL DEL SENADO
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3560
-#EXTINF:0,28 | CANAL RURAL
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3561
-#EXTINF:0,29 | CANAL DE LA CIUDAD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3562
-#EXTINF:0,30 | METRO 
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3563
-#EXTINF:0,31 | ENCUENTRO HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3564
-#EXTINF:0,32 | C5N
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3565
-#EXTINF:0,33 | ARGENTINISIMA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3566
-#EXTINF:0,34 | AMERICA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3567
-#EXTINF:0,35 | EL TRECE HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3568
-#EXTINF:0,02 | Telenovelas UHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3678
-#EXTINF:0,03 | Tlnovelas UHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3798
-#EXTINF:0,----- URUGUAY ------
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3816
-#EXTINF:0,01 | CANAL 12 URUGUAY
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3817
-#EXTINF:0,02 | CANAL 10 URUGUAY
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3818
-#EXTINF:0,03 | CANAL 11 Punta del Este
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3819
-#EXTINF:0,04 | CANAL 12 HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3820
-#EXTINF:0,05 | A + V 
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3821
-#EXTINF:0,06 | MONTECARLO TV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3822
-#EXTINF:0,07 | TNU
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3823
-#EXTINF:0,08 |  LA RED TV HD 
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3824
-#EXTINF:0,09 | CANAL 4 Montecarlo Opc.2 HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3825
-#EXTINF:0,10 | Canal 10 HD Saeta
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3826
-#EXTINF:0,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxASEhUQEBIVFRUQFRUWFRUVFRUQFg8VFRUWFxUVFRUYHSggGBolGxUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OGxAQGi0lICYtLS0tLS0vLS0tKy0tLS0tLi0tLS0tLTAtLS0tLS0tLS0tLS0vLS8tLS0tLS0tLS0tLf/AABEIAOEA4QMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAAAAwQFBgcCAQj/xABEEAABAwIBCAYGCAMIAwAAAAABAAIDBBEhBQYSMUFRYYEHEyJxkaEUIzJCUrEzQ2JygpLB8FNU0RVjc6KywtLhFoPx/8QAGgEAAgMBAQAAAAAAAAAAAAAAAAUCAwQBBv/EAD0RAAECAwUFBgQEBQQDAAAAAAEAAgMEERIhMUFRBWFxobETgZHB0fAUIjLhI0JislKCosLxM3KS4hVD0v/aAAwDAQACEQMRAD8A3FCEIQhCEIQhCEIQhCFUst57QRXZAOveNrTaNp4v29zb94XaXVyGJNwHElABJoBU6Zq2qBylnVRw3DpQ9w9yP1jr7jbBp7yFnOVsvVNRcSyHRP1bOwzuIGLvxEqMaCcAsEXaEFho35j4DxN5/wCPApjC2ZFfe82eZ9B4neFd6zpCccIIANzpXX8WM/5KDqc765/12iN0bGt8yCfNRDYHHZ4pVlIdpQ07QjXsZZHAD99T4KZZs+D9TrR4k/tAHiupsqVLvbqJj3yyW8L2TVz3HWSe9xPzTz0QcV0KQblZ8BtBxqYtP53joFEz0g3CFX+VvmUwBOwnkXBOIq+dvszSN+7LIPkU4NJwXJoxw8UHZ0+LxG/rf6FAn5E/+r+lvrVOYM565ns1D+54bJfm4E+al6PP+ob9JFG8fZLoXeekD5KtvpBsSTqcjj3qLmbRh3uaHDg09KPUh/46LgbJ7x1+VaVk/PejkweXRH+8Fm/nbdo52Vjhla4BzHBzTqLSHA9xGtYa4Ea04oK+aF2lDI6M7dE9l33mnsu5hQZtGGTZiNLT4+IxH9S5E2W8C1CdaG+g8DgeS29CoeR8/Rg2rbo/3sYJb+Jmsd4v3BXamqWSND43Ne12pzSHA8wt4Ic200gjUXj7HcbxmEue1zHWXCh0KWQhCFFCEIQhCEIQhCEIQhCEIQhCEIQhCjMtZYgpWdZM61/ZaMXPO5rdvyG1Mc585I6VuiLPmeOxHfUPifub5nZtIzCurZZZDJK4ve7adQGxrRsHBUx47ILavxOA13nQb/DMjRLSz45o24Zny3ndzwrJ5fzmnqrtJ6uP+G06x/eO97u1cNqhWtJwASkUJd3bk/hpwNQWeFKTE9R8U2WZD/5H9xqTlauW6JNS8iCyEKuz/wCx/tF25t6aRUpOtPI6cDUE6jhThkKdy8rBl/8ATbfrifH2NyTR5qNH+s3aYDw9anembYEq2BPWwpVsKvLlRZUc9jWgucQAMSTgAO9V2uzthaSImGS232WnuJx8k2z1yoZJPR2HsR+3b3n7jwHz7lWmxLVCggi05Y401ZNlqs0GeLSfWQkDe1wf8wFY6CqimbpRuBHmOBGxZuYk6yTWup5RI29tTh8Tf6qT4Ap8uKhDm6mjsFozoEm6BP6YtkYHtxDgCD3rp0KxBy30UNJAmstLuwU4+FN5IVCNAhRxSI0HqOBxHirIMeLBNYbiOneMOSgXxkJ5knKs1M7Thfo39oHFkn3m/qLHinMsCYzUxGI8N6SRtmxpYmLLEkZjOnRw3Y6Ct6dQdoQZlvZzIA0OVerT7wuWmZuZ0Q1XYPq5gMYyfatrLD7w4ax5qxrCLm4IJBBuCCQWkaiHDUVf80s7tMtp6kgPODJNQlOxrtz+Oo9+uUtNMj3C52mvDzGI3gEjPNyTpe8Xt104+R8QCQDeEIQtKxoQhCEIQhCEIQhCEIVezqzgbSR2bZ00gPVs1Afbd9keereQ9y5lSOlhdNJjbBrdRe8+y0fvAAnYsjrqySaR0shu95udwGxrRsA1KqPHbAZbdechqd+4Z+A1GiWlzMPsi4DE6cN5y78cClPM97nPe4ue83c463H9Bw2Jenp74nw3LmnhvidWxSUMShISBin4mZvreAc9Cd2g8qBaZ6eEIfDy91LiRluG/U+dSvIoU7jhXcUSeRRJ45ySAJOOFOGQpaOJOWRKsuUwE3ZCovOnKQpoC4e2/ssH2jt7hr5cVYhHbFY/nZln0qoJafVx3bHuIvi/mfIBTgM7R1Ms1TMROzZXPJRbGk4nEnWTjdOGQriAKQhYnAXnIsSiaOhTaWNTEsaYTtQQow4tVZ8wcq66Z51Ys7to/e/grs6FYzFUOje2Rhs5hBH9O7YtjyHXsqYWSs94YjcdoPcUrmodh1oYHr916GTi22WTiOi4fEkJIVKviTeSJZw5aqKHkhTSWFTUkSayxKxrlGigamn2jX80xc3YVPTRKPqae+I1pXtDZ3a/jQbni+66u8aO4Y8aFM5DaHZ/hRr2YX5bj+npwVwzJznLrUtQ67tUUhP0n2Hn4tx29+u9LByOXkQR8itOzLzh9Ij6uQ+uiGOzrGag8DwB423rNKzPbtv+oY7xqB1GpBzoJzsp2Dqt+k4bjp6d4yvtSEIWpYkIQhCELwr1VLP/ACv1UIgYe3UXGGtsY9s87hvM7l0UzNBmdALzyRQm4Cp81T87MtelTEtPqorti3O+KTnbDgBxUTTx6R4BJtbc2Ck6aKwssEpC+OmDFePkbl0b1Lt5p+ZNpmIJGXEJh+c59T0Dd3BKwRJ9DGuII0/hjXonOXnwF3FGnUUSIo08jjVLnKYC5jjS7I0rGxc1lQyGN80hDWRtLnE7A0XJVZKmqb0m5f8AR4RTxn1lQCMNbI9Tjz9kd53LKoCuct5Zkrap87gbyOsxmssYPYYANttdtpJVmyDmLWz2cW9W07X6/wAo/WyawwyXhi2aHP3uS6YY6K75QoqFyfwyq/ZO6M4m/SyOcdw7I8sfNTcGYtG3DQv3uJ+agdoQhgCVlOyoj8SB4nospklTKd62d+ZNGfqx4qLrejeld7Bew8HX/wBV0DaMM4g8lwbIiMwIPiFjkzlZ+jjL/Uz+jvPYnPZv7r93MeYG9Pct9G1XGC6FzZQNh7DuWw+Sz3KUEsD9GRro3tNwCC0ixwIPftCttQ5hpaD9u7FaIUJ8FwJC+kHMSL41EZgZwCtpWucR1kfYkG5wGu24ix5qwPYlBBabJxTRRkkSaSxqWkjTSWNTa5QIURNGmE0Smpo0wmjVzSolQNVDu58VxQVckMjJYzZ7DcbnDa08CLhSM8ai549E/JI9pwDAiCaha36V9HC53HUp3s6M2PDMtF0u4f8AXEfZbPknKDKiJk8fsyC9trTqc08QQRyT1Zr0fZX6uU0zz2Z8WfZkAxH4mjxaN60paGua9oe3A3/biDcVgiQ3Q3ljsR7r34oQhC6oIWM5yZT9JqJJgbtvoR/4bLgEd5u78S0nPHKHUUkjgbOeOrZsOk/C44gaR5LJQNixbQi2IFnNx5C8+JoPEJhsyFbjW/4RzNw8/EFOKOO5upWBia00dgApOBicykv8PAbDzz4nH0G4BLZqP28Yvyy4DD14kpeBikIWJGBifQsU3FUhKxMTuNiSiancbVUSpr1jFRekCOprntyZSYNBa6pk91mp0cXF2p5G7Q2FaCxq6hp2txAAuSeZNyfFRbEsG0MVKlQqtmlmFS0bQQ3SkIxe7Fx/oOAVvZGBqC4nmZG0veQ1rRck4ABVypqquqOjTgwx/GRaR43ge4PPuVESKSampPP/ABvuHerWQ66Aa+89w6KZrsrU8P0sjWnde5Pc0YlQ02fFKPZbI7uaP9xCUosy4W9qW73HWXG9zxUzBkOnbg2Nvgqfxzm0eLvNvRXAy7cnO7w0dHde5V5ufdPtjkHJn/JSFFnVSSYCTRO54LPM4KWdkqE642+CjqzNWkk+rAO8YHyXKRx+YHuI51PRctS5/KRwIPIgdVJtIcLgghROXs3KarYY542uB1G2LTvaRiDxCjv7AqqY6VLLpNH1b8WnuOxS+Ssqia7HtMcjfaY7X3je3iFcyKa3ih94EfY7lB8MUq01Hge8eYqMqrMqXN6fItX17CZKOWzZT70Av2Xv3taT7WwE31XWoaxfenssQcLEXTdkDWNDWiwaLAbABqAWl8Uvvdjrr7976LNME0kYm0rFIPamsjUArii5mJlMxSszExmYrWlQKh52KMq4sO5Tk7FG1DFY9jYrCx2BFPfDHiEMiOhPD24g198cOCiI3uaQWGzmEOafhc03B8QFs+RK8VEEc7frGgkfC4YObycCOSxmZtiVeujOvwlpyfZIkZ3O7LwOAIafxLzsgXML4D8W3+Hyu8iNwJTzaTQ9rI7MDd43jzrvICvaEITBKln3SdVXdDCD7IdK4d/YjPk9UynbdwPNTGe1Rp1su6PQYOTQT/mLlGUTcSVie3tZ+HDybToX8yaJpCPZbPe8Yur1sfdSVO1SUDUzp2qRgavQuKQtTuFqkIWprAE9iCzuVgTiJqcsakownLAqiphdsalmhctCVaFWpJCeka+2kL6JuBsvvtvTmOMAWAXQChs6M46eghM9Q7DUxgxfK7Y1g2nyG1cAJNAL12uqmVD5QzryfAdGargY4e6ZGaQ/De6wXOfPuvr3EOkMMJ1QxOLRb7bxYyc8OCrbKUJjD2aafO6m4evosj5trTcvpaDPfJjzotrYLnUDI1t+7SIup2KZrhdrgQdRBuCvk40ye5Fy1WUTtOlmczG5ZfSjfv0ozge/XuIUn7NH5HePquMm2k3r6oITOooWOIdbtNOBGBG/FVLMDpBirx1UgEdQ0XLL4SD4oydY3jWOOs3kpa9jmEtcL1ra6t4TchcPCcOCRcEITV7U2kanrwm0gUwolMJWpjM1SUoTOYK5pUSomdqjqhql52qNqAr2lVlQlY3EHkn+Z9X1dZC69g8mJ3HrBZo/PoptWtwI3JgJC2z262EOHe11x5hIptvZbRY7J1OdWHwuPFPJY9rs97D+WvL5h6Ld0KM/tyDf8kLXQ6JZabqslyvLpTzv+KaU8tN1vKyUoRgmTnXLjvLj4uKfUIw/e9ZZIl20ou60PAgJlNmzs6Hvs9CVK04UjAEwp1IwJ24pIE+gCexBNIU+iVDlYEuHAC5NgMSTgAEpQVLZWNkZ7L2hwvhg4XGGzArP+lXLpZCKKI+sqhZ9tbYjgR+I3b3aSvmRY9GFg3NHyUXMIYHHOvL3yXWuBJGikWhKNXDUq1UFTXksga0ucQA0EknUANZK+Zc884n5Rq3Tknqm3bA3GzIwcDbY52s8hsC2vpbygYcmT6OubRi5SODX/wCQuXz5StTPZ0MUMTuHvwWSbiFool4YU7ZCvYGKQhhTQBI4kWij3QpvLCpuSBMZ410hQhxqqJjlfDI2aJxa+Nwc1w1gj9NltoJC+k8x84G11JHOMHEWe34XtwcO6+rhZfOFS1aN0EV5bLUU59l2jIBxxa7yDFg2hCDodrMdE7k4pNy2hwSTksUk5Jgt6byKNpK5kwJYfZc9jhta9jixwPMHvFjtUpIsrpss+iZYqIHG0VS9h4NkdGzHnq5NV8NhcDTIVUHuDaVzuWgShMZgn7zfEbUzmXWrijpwo2oCk51G1CvaoKKqW4FRYH6qWqFEbeaSbeNgw3j9XKyRzTvYnzCIw/p51HRJelyfEUJJC9jWHovHUiJzaxI3X+ZUjQnAJvlGPRllb8EsrfB7glqE4c/kvHyPy7Si1zt83A9F6+cFdnQ91n9pCmadSMCjKcqRgKduSUKShStZWshifNIbNjaXHlsG8pCEqidJGW9Nwo4z2WWdJxdra3lr5jcoQ4ZiPDURIghstFVKvr31NSaiTW9wNtYY0EaLRwAX0Jkw+rb90L52jjW/5uVGnTxv3tHyV+0GWQymF46LLs+LbL67j1Uu1KtSLUs1KymSoHTewnJt9jZoieZLfm4LDqUr6Wz0yP6XRT04td7DoX1B7e0w/mDV8ywEglrgQWkgg4FpGBBGwgpvs51YZboev+FhnW1oVMU5UpTPCg4ZE9jnTEFIY0MlSc7woyoK7fOmc0q6SoQoRCaVBV06EWE10jhqbFY83YfIqi1Mi1/oOyMWQyVThYzu7P3GXA8y49xCxTrrMA77vPyTySb81VqhSTkoUi5Iwmi4esJ6SRfKEpGwM5HQaf1C3WQrB88X9ZWTvHxFv5QGf7Uw2eKxCd3mFg2g+zDHHyKv+Y+XfSacB59ZF2X8bancx+qmpljmbeVTSztkv2Hdl4+ydvLX4rX+tDmhwOBCI8Ls33YHD07lOWjdqyuYx9++SZzqPnT+cqOqCuNVijahQ+3mpaqOtRI1pHt+ruzYP1c7IHNO9h3do7/byteSbIXKF7Ls2rx3aP0Vizth0KyobbW8PHHTbpHzJTKidiQrJ0l0ujURS7JYy0/ejN/k8eCq1K6zhxwXiy7stosecHAcwWfuC9kwdrs5zc215G2ORU5TlSUBUVTuUjA5ehckIXWXMrtpYHSnXqYPiedQ/XuBWSdY57i9xu5xJcTtJNyVJZ55c9In0GH1cBLRuc73nfoO471EwlbJaHYbXMpdOPtGgwCkIGrWejut0oOrJxYfLWFksD1aczcrdRO257MmB7t/73rs5CtwjqL/AH3LJIxezmBXA3enNbE0pZpTaJ9xcbUq0pCvSpdYr0tZkPZI7KFKwlj8Z2NFyw7ZQNx2+O022hpXrmgixU4MV0J1pv8AlRewPFCvkyGdOmzrYM6+imnqHGWld1EjsSANKNxO0swse4jXexWfV/RtlWIm0TZQNRY8C47n6Nk5hzkF4xod/rgl0STdkoJ06byzqdp8wMrPNvR9Di57Lf5SVbs3uh95IfWy3G2OO4B4F+sjuspPm4LBe4Hhf9uaiyTdoqXmbmvLlGYNAIhafWP1X+w07z5eF/o/J1EyGNsTAA1gAAGAAC4yVkuGmjEULA1rRYACwCdkpPMzBjOrgBgEyhwwwUCHFJOK9cUm8qlTTLK9YIonyn3AeZtgFhNVckk4kkkneTrWidJOWQA2lacTZz+4eyPHHkN6zid6dSEOzDLjn0+968/tONbjBg/L1P2omMwV6zBy3psNM89qMdniz/rV4KiTOSVJXugkbKzWw3t8Q2jwV8eH2jaZ5Lso8sdVbPOVG1Dl3R17ZomysNw4ApvUOS5oTcphVv1+Ci3k2JGvUOJOpPa1+xL5t0vW1UEewyB34Y+2f9NuaRTrhF2hDZk2le75z/SE7lB2Ug9+ZrTk0c1eP/Co+C9VtQt3bP1Srs2aKr9IFF1lKXtHap3CQfd9l/LRcT+FZgDY3/ditylia5pY4Xa4EEHaCLEeCxTKFE6GaSF2uNxAPxN1sdzaQUu2jDL4IeMWnkaCvc6lP9ya7Li2YphnBw5ivUdE+pn3xTfOvKboKSR7DZzrMadxcbXHEC55Lijk2eKYZ8xF9ISMdBzXHuvY/NPpOM2Yhsia0rxz54JTMwTAiuh6YcMuWO9Z9TvUhC9QzXWTyGZOClUWHW9TMciWEyi2SpUTIBWF0Gq2bo+znE7Ookd6yMbffbsd/X/tXhrl8z0mUHxPbLG7Rcw3BH71LZ8ys9Iqxug4hkzR2mX9r7Td4+XzUTctYNtou6JzKR7TbLseqtGUHShulFYub7pwDxuvsPFIZNy9DKdAkskb7Ub+y4cto4i4T9rlF5XyFDUC7hZw1OGDm80seHYt8D65dNUxaWG53iPTPrpop0OXqorqXKVN9FJ1zBqD8T46/NeDO2sZhJSk9xcPmCqjHDfqa4dxPNtR57laJcu+hzT3gcnUKvaLqjHPWc4NpHX4l3/Bcf2vlOfCONsQO22I5n+iBMMP0gng0+YA5o+GePqIHFw8iTyVyrK6OJpfI8NaNpNlFUeVH1DrxNLYh77hZ0n3QfZbxOJ4a1G0ObDnOEtXIZXDVpG4HcNissbGtFmiwCsaHOvdcNMT3nDuHeclW6w25t51wHcMe89wreuyVD5yZbjpIXSyHg1u17jqaP3gASjODL0FHEZZ32Gpo1ukdsa0bT+zgsOzkzllrZetkwaLiNgNxG39ScLlb5aXMV1TgsUxH7MXYrquyi+WR0shu6Q3P9BwAsOSZySpp1y4dKnguuCQ9mSaldyvTCoeupZkzkfdC1woavHRzlJ3rICcB2m8L+0PHHmVbqh6oHR9Eeue/Y1tvE3/AEV2qpbDuS6ZcyG5z3XAXnwvTKG1zyGNxNwTKoddxHJW7o1otKSWc6o2iNvFzrOdzADfzKludYX/AHwWv5p5M9HpY43CzyNOT778SD3YN/CvLyNqI+JMOxNw4m8+AoBuKf7RcIUNku3K/uFwrxN53gqaQhCYJUhULpJyVgyrYPZtHL91x7DuRNvxDcr6kaqnZIx0bxdr2lrhvBFiigNzhUG4jcbj7yxQHOaQ5uIvHH3yuWHsdY4KR0WyMLHC7Xggg7QRiEhljJj6WZ0D8dHFjv4jD7Lv0PEFJ0stjY6ischFMpMGXiH5Tgcr8D/MLtxArgU0noYm4AmIYvGIzpmP5Tf4nMVz/L+QpKZxwJjJ7L9dhuduPz8lFNdZbM3RcLOAIO9NzmzRONzCy5+yAvViZIucF54sBWTMnSgqFrkeaFB/BZ4JyzMzJ/8AAZ4Lhm2/wnko/DgrGHVC8jq3scHscWuabtc0lpad4IW3szJyd/Ls8Alm5j5N/l2eAUfjm/wlSEvTNVjNHpXLQIsoAm2HXMF+cjB82+AWq5LyvBUMEkErZGna1wcO7DUeCqzcxcnfy7PyhSGSs1qKnd1kELWO3tGiT321hYIvZOvYCOnvgtDbWZVnD145rTrATcPXWms9FOqVEbPhHgurhIF68L0URVdzVDWgucQABckmwA4lZ7nV0q0sN46S1RJ8QwhYeL/f/DhxCtmWcj09UA2ojbIBqDu0BxscL8VCuzEyb/LR/lCuh9mDV4J3e/souJyWG5Xy5UVUhmqJC9x1bGsHwsbqaP2bps2dbs7MbJv8uz8oSL8ycnfy7PAJi2dYBQNKzOgVxKxH0hcOnW1PzMyf/AZ4JtJmhQfwGeCl8Y3+EqPw4CxlzyUrRUckrtCNpJ8m8Sdi1iTNShH1LPAJWKkiiFo2BoG4WUjNVFwXRDoo3IGShTRButxxcd5XVTJc8B5pxVzbBrKZtBJDWglziA0DEuJNgBxuvM7WmXRHCVh3uJFeOQ6E4Uuyqn2y5cMaZmJcADThmfIa37lOZl5J6+paXC7ILSP3aV/Vt5kX7mla0oTNfI4pYGxmxe7tSHe86wOAwA7uKm1ZDY2GwQ24DPU5nvPKgyWOLFdFeYjs+QyHvOqEIQpKtCEIQhVzO/IPpcV2WE0VzGdWlvYTuPkbcVlRviCCCCQQcC0jAgjYVvCpGe+bBkvVU7byAesYPrAPeaPjA2bRx10TMuJhln8w+k/2ncctDuJWqTmjLvr+U4+o36jMbwFS6Wo2H/6pGGVQLDfEJ7TVOw6/mrNnbQLj2Ee5wuFcTlQ7xhfeeOMp+QDfx4F7TeaZbxuOO7hhPxSp3FKoWKVPI5U2c1KaqXjlTpkqiI5U4ZMqi1TqpRsqVbIoxkqWbKolqlVSAkXXWJiJV71qjZRVPesXhkTTrVyZUWV1OTIk3SpuZUi6ZdsrlU5fKkJJU3fKkJJVMNUapSSVNZZVxJKmcsqsDVEldTSphUT2XlROB/RR73Em5WDaG0GyzbDL3nlvO/QZ8EwkJAzBtO+jruG7U9wvw8c7aVd+j/IF7Vko/wAFp2A4GTnqHM7lFZn5tmpd1sotAw93XuHuj7I2nlvtqbWgCwwA5WWGUljBq+J9Z1xaDjX9Rz0wxtAXz02Iv4cP6BpnTT9Iy1N+FCukIQtawoQhCEIQhCEIQhCEKiZ4ZolxdU0g7ZuZIhh1m9zPtbxt79dD/TWNRB3FbuqtnNmjHU3litHN8XuycHgbftDHvsFnmZVkwPmudrqNHajQ4jeLhqlZx8uaYt003t9MDxWc09QRh57+9P4plHV1HJC8xzMLHDYdThvadThxCTjkIUIO0Y0qRCmQTvzpro4b8eJuWmNIQZlvayxA3ZV6tKn45k6ZMoKKrHd8k6ZOnkKLDjNtQ3Aj3jp3pNFhRILrMRtD7wyPcphkyWbMolsyUbOpFqhVSwmXvXKNE6669RLV1SHXLwzJh165M6LKE9dMk3TJm6dIunXbK5VPHzJvJMmr502lqQF17mQ22nkAaldY18R1lgqdycyTJlUVOwYn5JvLOTwHzSbWkkNaCXONg1oLi47gBrKSzG1XRHdlKgknOl/cN2pwxpS9OIGy2sHazJAGlbu8+Q8V4520qxZqZquqSJZbtgHJ0/Bu5u93IbxLZt5lE2mrBxbDrH/tO37ow37Qr61oAsMAOVlCWkxANt5q/wAQ061zdvyyvoRGanjGHZw7meBI03Ddic7qhcQQtY0MYA1rQAABYNA1ABKoQtSwoQhCEIQhCEIQhCEIQhCEIQhCEJllPJkNQzq5mB42X1tO9rhi08QqBlvMaeO76Y9az4HWbI3uOp3keBWmIQQHNsOAI0PlmDvBBXWOcx1phIOo938DcsJe0tcWOBa5utrgWuaeIOIQyRw2rZ8pZJp6gaM8TX7iRZzfuuGI5FVLKHR6MTTTFo+CUaQ7g8YgcisLtntDrUB5ad9eTm3jddxOaZM2mSLMdlobqc2m7n3ZKmMqztFkuKscU5rc1q6P2oC4D3oiJb9zR2vJQ0oLTovBadzgWnwKsEfacIXttjha/Ya/8r1wwdmxcHWe+z+4U8LlKtqBvHiuhUcVEBGPFB23EZ9cLmR1au/+Ghu+iJyB8wpf0heGpG8KJx4r0rg249/0QuZP9qDsVrfqicgOpopB1WN6RkrNw8UyLxqJxOwYkqUpMg1cv0dPJbe4dU3vBfa/JSM3tKKPkZZHCnN5ouCW2dC+t9rvryYKpi+dx2+GCTcba1csn5gSnGeZrB8MY03EfeNgDyKteSc2aWms6OMF4+sf23X3gn2eVlT8A6I63MRCTuvPicOADgpO2iyG2xLspxuHgLz30O9UDI2adVPZxb1MZ9+QHSI+zHr8bDitAyFm5T0ovG27yMZHdp54A+6OAU0hbWMZDbZhig5nicT0GQCXRYr4rrUQ16DgMB13oQhCkoIQhCEIQhCEIQhCEIQhCEIQhCEIQhCEIQhCEIQhCEIUZnD9CUIRmF3IrFq36R3ekUIXqIGC89GxKEIQpRMFGHitVzC+j5K2oQvMRf8AUK9BD+gIQhCgpIQhCEIQhCEIQhCEIQhCEIQhCEL/2Q==" group-title="URUGUAY" - 11 | CANAL 3 ARTIGAS TV HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3827
-#EXTINF:0,12 | VTV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3828
-#EXTINF:0,13 | VTV HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3829
-#EXTINF:0,14 | VTV + HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3830
-#EXTINF:0,01 | Showtime
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3870
-#EXTINF:0,02 | Showtime 2
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3871
-#EXTINF:0,03 | Showtime Beyond
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3872
-#EXTINF:0,04 | Showtime Extreme
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3873
-#EXTINF:0,05 | Showtime Showcase
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3874
-#EXTINF:0,06 | Showtime WEST
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3875
-#EXTINF:0,07 | Showtime West HD_1080P
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3876
-#EXTINF:0,08 | Showtime West HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3877
-#EXTINF:0,09 | Showtime HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3878
-#EXTINF:0,10 | Showtime East HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3879
-#EXTINF:0,11 | Showtime Beyond HD_1080P
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3880
-#EXTINF:0,12 | Showtime 2 Latino
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3881
-#EXTINF:0,13 | Showtime Extreme latino
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3882
-#EXTINF:0,01- Starz Cinema UHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3884
-#EXTINF:0,02- Starz Comedy HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3885
-#EXTINF:0,03- Starz East HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3886
-#EXTINF:0,04- Starz Encore HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3887
-#EXTINF:0,05- Starz Encore Action HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3888
-#EXTINF:0,06- Starz HD 
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3889
-#EXTINF:0,07- Starz In Black HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3890
-#EXTINF:0,08- Starz Encore Suspense HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3891
-#EXTINF:0,09- Starz Encore Black HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3892
-#EXTINF:0,10- Starz Family HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3893
-#EXTINF:0,11- Starz Encore Classic UHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3894
-#EXTINF:0,12- Starz Edge HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3895
-#EXTINF:0,13- HBO HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3896
-#EXTINF:0,14- HBO PLUS
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3897
-#EXTINF:0,15- HBO Signature
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3898
-#EXTINF:0,16- Showtime HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3899
-#EXTINF:0,17- Showtime Showcase UHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3900
-#EXTINF:0,18- Showtime 2 UHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3901
-#EXTINF:0,19- Showtime West HD_1080P
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3902
-#EXTINF:0,20- Showtime UHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3903
-#EXTINF:0,21- Cinemax HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3904
-#EXTINF:0,22- Cinemax Actionmax UHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3905
-#EXTINF:0,23- Cinemax Action 2 HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3906
-#EXTINF:0,24- Action Max 2 HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3907
-#EXTINF:0,25- MovieMax HD 
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3908
-#EXTINF:0,26- Cinema 01 PPV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3909
-#EXTINF:0,27- Cinema 02 PPV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3910
-#EXTINF:0,28- Cinema 03 PPV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3911
-#EXTINF:0,29- Cinema 04 PPV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3912
-#EXTINF:0,30- Cinema 05 PPV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3913
-#EXTINF:0,31- Cinema 06 PPV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3914
-#EXTINF:0,32- Cinema 07 PPV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3915
-#EXTINF:0,33- Cinema 08 PPV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3916
-#EXTINF:0,34- Cinema 09 PPV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3917
-#EXTINF:0,35- Cinema 10 PPV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3918
-#EXTINF:0,36- Cinema 11 PPV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3919
-#EXTINF:0,37- Cinema 12 PPV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3920
-#EXTINF:0,38- Cinema 13 PPV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3921
-#EXTINF:0,39- Cinema 14 PPV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3922
-#EXTINF:0,40- Cinema 15 PPV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3923
-#EXTINF:0,41- Cinema 16 PPV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3924
-#EXTINF:0,42- Cinema 17 PPV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3925
-#EXTINF:0,43- Cinema 18 PPV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3926
-#EXTINF:0,44- Cinema 19 PPV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3927
-#EXTINF:0,45- Cinema 20 PPV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3928
-#EXTINF:0,46- Cinema 21 PPV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3929
-#EXTINF:0,47- Cinema 22 PPV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3930
-#EXTINF:0,48- Cinema 23 PPV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3931
-#EXTINF:0,▁ ▂ ▄ ▅ ▆☆ SPANISH SPORT☆▆ ▅ ▄ ▂ ▁
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4295
-#EXTINF:0,SPORTS | BARCA TV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4296
-#EXTINF:0,SPORTS | LIGA TV BAR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4297
-#EXTINF:0,SPORTS |  LIGA TV BAR HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4298
-#EXTINF:0,SPORTS |  LIGA TV BAR FHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4299
-#EXTINF:0,SPORTS | LIGA TV 1 BAR (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4300
-#EXTINF:0,SPORTS | LIGA TV BAR 3 (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4301
-#EXTINF:0,SPORTS | LIGA TV BAR 4 (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4302
-#EXTINF:0,SPORTS | MOVISTAR LALIGA FHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4303
-#EXTINF:0,SPORTS | MOVISTAR #VAMOS
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4304
-#EXTINF:0,SPORTS | MOVISTAR VAMOS BAR  HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4305
-#EXTINF:0,SPORTS | MOVISTAR VAMOS BAR  FHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4306
-#EXTINF:0,SPORTS | MOVISTAR LALIGA 1 (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4307
-#EXTINF:0,SPORTS | MOVISTAR LA LIGA 1 FULLHD (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4308
-#EXTINF:0,SPORTS | MOVISTAR  LALIGA 2 (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4309
-#EXTINF:0,SPORTS | MOVISTAR LA LIGA 2 FHD (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4310
-#EXTINF:0,SPORTS | MOVISTAR  LA LIGA 3 (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4311
-#EXTINF:0,SPORTS | MOVISTAR LA LIGA 4 (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4312
-#EXTINF:0,SPORTS | MOVISTAR LA LIGA 5 (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4313
-#EXTINF:0,SPORTS |  MOVISTAR LA LIGA 6 (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4314
-#EXTINF:0,SPORTS | MOVISTAR LA LIGA 7 (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4315
-#EXTINF:0,SPORTS | MOVISTAR LA LIGA 10 (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4316
-#EXTINF:0,SPORTS | MOVISTAR LA LIGA 3 FULLHD (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4317
-#EXTINF:0,SPORTS | MOVISTAR LA LIGA 9 (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4318
-#EXTINF:0,SPORTS | MOVISTAR LA LIGA 8 (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4319
-#EXTINF:0,SPORTS | MOVISTAR LIGA CAMPEONES
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4320
-#EXTINF:0,SPORTS | MOVISTAR LIGA DE CAMPEONES HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4321
-#EXTINF:0,SPORTS | MOVISTAR LIGA CAMPEONES FHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4322
-#EXTINF:0,SPORTS | MOVISTAR LIGA CAMPEONES 1 (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4323
-#EXTINF:0,SPORTS | MOVISTAR LIGA CAMPEONES 1 FULLHD (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4324
-#EXTINF:0,SPORTS | MOVISTAR LIGA DE CAMPEONES 2
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4325
-#EXTINF:0,SPORTS | MOVISTAR LIGA CAMPEONES 2 FULLHD (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4326
-#EXTINF:0,SPORTS | MOVISTAR LIGA CAMPEONES 3  (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4327
-#EXTINF:0,SPORTS | MOVISTAR LIGA DE CAMPEONES 4 (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4328
-#EXTINF:0,SPORTS | MOVISTAR LIGA CAMPEONES 5 (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4329
-#EXTINF:0,SPORTS | MOVISTAR LIGA CAMPEONES 6 (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4330
-#EXTINF:0,SPORTS | MOVISTAR LIGA CAMPEONES 7 (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4331
-#EXTINF:0,SPORTS | MOVISTAR LIGA CAMPEONES 8 (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4332
-#EXTINF:0,SPORTS | MOVISTAR  GOLF
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4333
-#EXTINF:0,SPORTS | MOVISTAR GOLF HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4334
-#EXTINF:0,SPORTS | MOVISTAR  DEPORTE
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4335
-#EXTINF:0,SPORTS | MOVISTAR DEPORTE HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4336
-#EXTINF:0,SPORTS | MOVISTAR DEPORTE FULLHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4337
-#EXTINF:0,SPORTS | GOL TV FHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4338
-#EXTINF:0,SPORTS | MOVISTAR DEPORTE 1 FULL HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4339
-#EXTINF:0,SPORTS | MOVISTAR DEPORTE 1
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4340
-#EXTINF:0,SPORTS | MOVISTAR DEPORTE 2 (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4341
-#EXTINF:0,SPORTS | MOVISTAR DEPORTE 3 (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4342
-#EXTINF:0,SPORTS | MOVISTAR DEPORTE 4 (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4343
-#EXTINF:0,SPORTS | MOVISTAR DEPORTE 5 (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4344
-#EXTINF:0,SPORTS | MOVISTAR DEPORTE 6 (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4345
-#EXTINF:0,SPORTS | MOVISTAR DEPORTE 7
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4346
-#EXTINF:0,SPORTS | MOVISTAR DEPORTE 8
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4347
-#EXTINF:0,SPORTS | EUROSPORT
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4348
-#EXTINF:0,SPORTS | EUROSPORT HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4349
-#EXTINF:0,SPORTS | EUROSPORT FULL FHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4350
-#EXTINF:0,SPORTS | Eurosport  2
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4351
-#EXTINF:0,SPORTS | ESPORT 3
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4352
-#EXTINF:0,SPORTS | MOVISTAR F1 HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4354
-#EXTINF:0,SPORTS | M. FORMULA 1 FULL HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4355
-#EXTINF:0,SPORTS | MOVISTAR GOLF FHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4356
-#EXTINF:0,SPORTS | TELEDEPORTE
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4357
-#EXTINF:0,SPORTS | MOVISTAR TOROS FULL HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4362
-#EXTINF:0,SUR | STAR CHANNEL
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4781
-#EXTINF:0,SUR | STAR LIFE
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4782
-#EXTINF:0,SUR | STAR ACTION
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4783
-#EXTINF:0,SUR | STAR MOVIES
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4784
-#EXTINF:0,SUR | STAR SERIES
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4785
-#EXTINF:0,SUR | FOX SPORTS PREMIUM
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4787
-#EXTINF:0,SUR | FX
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4788
-#EXTINF:0,SUR | FX MOVIES
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4789
-#EXTINF:0,SUR | DISCOVERY INVESTIGATION
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4790
-#EXTINF:0,SUR | DISCOVERY KIDS
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4791
-#EXTINF:0,SUR | DISCOVERY TURBO
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4792
-#EXTINF:0,SUR | DISNEY XD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4793
-#EXTINF:0,SUR | ESPN 2
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4794
-#EXTINF:0,SUR | ESPN 3
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4795
-#EXTINF:0,SUR | HBO
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4796
-#EXTINF:0,SUR | HBO 2
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4797
-#EXTINF:0,SUR | HBO FAMILY
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4798
-#EXTINF:0,SUR | HBO PLUS
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4799
-#EXTINF:0,SUR | HBO MUNDI
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4800
-#EXTINF:0,SUR | SONY
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4801
-#EXTINF:0,SUR | SPACE
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4802
-#EXTINF:0,SUR | TBS
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4803
-#EXTINF:0,SUR | TCM
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4804
-#EXTINF:0,SUR | CINECANAL
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4805
-#EXTINF:0,SUR | CINEMA DINAMITA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4806
-#EXTINF:0,SUR | CINEMAX
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4807
-#EXTINF:0,SUR | HISTORY CHANNEL
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4808
-#EXTINF:0,SUR | DISCOVERY HOME AND HEALTH
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4809
-#EXTINF:0,SUR | CARACOL NACIONAL
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4810
-#EXTINF:0,SUR | RCN NUESTRA TELE
-#EXTVLCOPT:network-caching=1000
+#EXTINF:0 type="stream" channelId="4775" group="CO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1044px-Channel_1_%28Colombia%29_-_2017_logo.svg.png", CANAL UNO
+http://disfruta.net:80/jhanersongutierrez/TGF04NyqZs/259
+#EXTINF:0 type="stream" channelId="4745" group="CO", TELEANTOQUIA
+http://disfruta.net:80/jhanersongutierrez/TGF04NyqZs/269
+#EXTINF:0 type="stream" channelId="4031" group="CO", RCN
+http://disfruta.net:80/jhanersongutierrez/TGF04NyqZs/267
+#EXTINF:0 type="stream" channelId="4031" group="CO", RCN NUESTRA TELE
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4811
-#EXTINF:0,SUR | WIN SPORTS
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4812
-#EXTINF:0,SUR | CANAL CAPITAL
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4813
-#EXTINF:0,SUR | FRECUENCIA LATINA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4814
-#EXTINF:0,SUR | HGTV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4815
-#EXTINF:0,SUR | CDF BASICO
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4816
-#EXTINF:0,SUR | CDF PREMIUM
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4817
-#EXTINF:0,SUR | CDO BASICO
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4818
-#EXTINF:0,SUR | DISCOVERY CHANNEL
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4819
-#EXTINF:0,SUR | DISNEY CHANNEL_
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4820
-#EXTINF:0,SUR | ECUADOR TV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4821
-#EXTINF:0,SUR | ETC TV CHILE
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4822
-#EXTINF:0,SUR | EL TRECE
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4823
-#EXTINF:0,SUR | EUROCHANNEL
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4824
-#EXTINF:0,SUR | EUROPA EUROPA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4825
-#EXTINF:0,SUR | GLOBOVISION
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4826
-#EXTINF:0,SUR | GOL TV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4827
-#EXTINF:0,SUR | GOL TV PERU
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4828
-#EXTINF:0,SUR | MAX
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4829
-#EXTINF:0,SUR | MOVISTAR TV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4830
-#EXTINF:0,SUR | TLT
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4831
-#EXTINF:0,SUR | ORBE 21
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4832
-#EXTINF:0,01 | ANT TV SUR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4833
-#EXTINF:0,SUR | AMERICA TV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4834
-#EXTINF:0,SUR | CANAL N
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4835
-#EXTINF:0,SUR | CMD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4836
-#EXTINF:0,SUR | LATINA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4837
-#EXTINF:0,SUR | PANAMERICANA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4838
-#EXTINF:0,02 | PERU MAGICO SUR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4839
-#EXTINF:0,SUR | Movistar PLUS TV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4840
-#EXTINF:0,SUR | GOLPERU
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4841
-#EXTINF:0,SUR | 24 HORAS
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4842
-#EXTINF:0,SUR | ATV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4843
-#EXTINF:0,SUR | AXN
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4844
-#EXTINF:0,SUR | RPP
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4845
-#EXTINF:0,03 | C9N SUR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4846
-#EXTINF:0,SUR | CANAL 13
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4847
-#EXTINF:0,SUR | CANAL CLARO
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4848
-#EXTINF:0,SUR | CAPITAL TV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4849
-#EXTINF:0,SUR | CARTOON NETWORK
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4850
-#EXTINF:0,SUR | CDF PREMIUM
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4851
-#EXTINF:0,SUR | CHV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4852
-#EXTINF:0,SUR | CNN Espanol
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4853
-#EXTINF:0,SUR | MEGA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4855
-#EXTINF:0,SUR | MTV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4856
-#EXTINF:0,SUR | NAT GEO KIDS
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4857
-#EXTINF:0,SUR | NICK JR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4858
-#EXTINF:0,SUR | NICKELODEON
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4859
-#EXTINF:0,04 | PARAVISION SUR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4860
-#EXTINF:0,05 | AMERICA NEXT SUR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4861
-#EXTINF:0,SUR | RED TELEVISION
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4862
-#EXTINF:0,SUR | TELEPACIFICO
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4863
-#EXTINF:0,SUR | TVE
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4865
-#EXTINF:0,SUR | ZONA LATINA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4866
-#EXTINF:0,SUR | CITY
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4867
-#EXTINF:0,SUR | TELEVEN
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4868
-#EXTINF:0,SUR | TRAVEL AND LIVING CHANNEL
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4869
-#EXTINF:0,SUR | LA RED CHILE
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4870
-#EXTINF:0,06 | VENEVISION PLUS SUR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4871
-#EXTINF:0,SUR | VIVE
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4872
-#EXTINF:0,07 | VE_MERIDIANO SUR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4873
-#EXTINF:0,SUR | TELESUR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4874
-#EXTINF:0,SUR | CO_SENAL COLOMBIANA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4875
-#EXTINF:0,SUR | ATV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4876
-#EXTINF:0,SUR | VENEVISION
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4877
-#EXTINF:0,08 | CONCIENCIA SUR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4878
-#EXTINF:0,09 | VALE TV SUR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4879
-#EXTINF:0,SUR | VENEZOLANA DE TELEVISION
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4880
-#EXTINF:0,SUR | VIVE
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4881
-#EXTINF:0,10 | SNT SUR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4882
-#EXTINF:0,11 | LA TELE SUR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4883
-#EXTINF:0,12 | FARRA PLAY HD SUR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4884
-#EXTINF:0,13 | GEN TV SUR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4885
-#EXTINF:0,14 | LA TELE SUR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4887
-#EXTINF:0,15 | NOTICIAS PY SUR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4888
-#EXTINF:0,PARAGUAY | PARAGUAY TV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4889
-#EXTINF:0,16 | PARAVISION SUR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4890
-#EXTINF:0,17 | RPC SUR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4891
-#EXTINF:0,18 | SNT SUR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4892
-#EXTINF:0,19 | SUR TV SUR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4893
-#EXTINF:0,20 | TELEFUTURO SUR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4894
-#EXTINF:0,21 | UNICANAL SUR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4895
-#EXTINF:0,04 | RCN NOVELAS
-#EXTVLCOPT:network-caching=1000
+#EXTINF:0 type="stream" channelId="3782" group="CO", RCN Novelas
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4896
-#EXTINF:0,SUR | TVES
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4897
-#EXTINF:0,SUR | CANAL TRO
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4898
-#EXTINF:0,SUR | RTU
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4899
-#EXTINF:0,22 | TV PERU SUR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4900
-#EXTINF:0,SUR | UNITEL
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4901
-#EXTINF:0,SUR | BOLIVISION
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4902
-#EXTINF:0,SUR | ATB
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4903
-#EXTINF:0,SUR | EL TRECE INTERNACIONAL
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4904
-#EXTINF:0,SUR | LA NACION TV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4905
-#EXTINF:0,SUR | A24
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4906
-#EXTINF:0,SUR | 26TV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4907
-#EXTINF:0,SUR | RTS ECUADOR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4908
-#EXTINF:0,SUR | UCV3
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4909
-#EXTINF:0,ARG | ANIMAL PLANET SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4910
-#EXTINF:0,ARG | AXN SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4912
-#EXTINF:0,ARG | BABY FIRST SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4914
-#EXTINF:0,ARG | BOOMERANG SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4917
-#EXTINF:0,ARG | CARTOON NETWORK SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4919
-#EXTINF:0,ARG | CDN 37 SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4920
-#EXTINF:0,ARG | CINE LATINO SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4921
-#EXTINF:0,ARG | CNN ESPANOL SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4922
-#EXTINF:0,ARG | COMEDY CENTRAL SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4924
-#EXTINF:0,ARG | DISNEY CHANNEL SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4933
-#EXTINF:0,ARG | DISNEY XD SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4935
-#EXTINF:0,ARG | E! ENTERTAIMENTS SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4936
-#EXTINF:0,ARG | ENLACE TV SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4937
-#EXTINF:0,ARG | ESPN SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4938
-#EXTINF:0,ARG | ESPN 3 SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4940
-#EXTINF:0,ARG | ESPN EXTRA SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4941
-#EXTINF:0,ARG | FOX SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4942
-#EXTINF:0,ARG | FOX ACTION SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4943
-#EXTINF:0,ARG | FOX CINEMA SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4944
-#EXTINF:0,ARG | FOX CLASSIC SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4945
-#EXTINF:0,ARG | FOX COMEDY SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4946
-#EXTINF:0,ARG | FOX FAMILY SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4947
-#EXTINF:0,ARG | FOX LIFE SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4948
-#EXTINF:0,ARG | FOX MOVIES SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4949
-#EXTINF:0,ARG | FOX SERIES SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4950
-#EXTINF:0,ARG | FOX SPORTS SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4951
-#EXTINF:0,ARG | FX SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4955
-#EXTINF:0,ARG | GLITZ SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4956
-#EXTINF:0,ARG | GOLDEN SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4957
-#EXTINF:0,ARG | H2 SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4960
-#EXTINF:0,ARG | HBO SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4961
-#EXTINF:0,ARG | HBO 2 SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4962
-#EXTINF:0,ARG | HBO FAMILY SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4963
-#EXTINF:0,ARG | HBO PLUS SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4964
-#EXTINF:0,ARG | HBO SIGNATURE SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4965
-#EXTINF:0,ARG | HISTORY CH SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4966
-#EXTINF:0,ARG | HTV SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4975
-#EXTINF:0,ARG | LIFETIME SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4979
-#EXTINF:0,ARG | MTV SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4981
-#EXTINF:0,ARG | MTV HIT SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4982
-#EXTINF:0,ARG | NAT GEO SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4983
-#EXTINF:0,ARG | NAT GEO KIDS SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4984
-#EXTINF:0,ARG | NAT GEO WILD SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4985
-#EXTINF:0,ARG | NICK JR SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4986
-#EXTINF:0,ARG | NICKELODEON SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4987
-#EXTINF:0,ARG | TNT SERIES SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5024
-#EXTINF:0,ARG | TOONCAST SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5064
-#EXTINF:0,ARG | HBO POP SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5065
-#EXTINF:0,01 | A&E HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5093
-#EXTINF:0,02 | ANIMAL PLANET HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5094
-#EXTINF:0,03 | ARTE 1 HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5095
-#EXTINF:0,04 | AXN HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5096
-#EXTINF:0,05 | BAND HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5097
-#EXTINF:0,06 | BAND NEWS HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5098
-#EXTINF:0,07 | BAND SPORTS HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5099
-#EXTINF:0,08 | BIS HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5100
-#EXTINF:0,09 | BOOMERANG HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5101
-#EXTINF:0,10 | CANAL BRASIL HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5102
-#EXTINF:0,11 | NOVO TEMPO - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5103
-#EXTINF:0,12 | CARTOON NETWORK HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5104
-#EXTINF:0,13 | CINEMAX HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5105
-#EXTINF:0,14 | COMBATE HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5106
-#EXTINF:0,15 | COMEDY CENTRAL HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5107
-#EXTINF:0,16 | CURTA! HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5108
-#EXTINF:0,17 | DISCOVERY CH. HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5109
-#EXTINF:0,18 | DISCOVERY CIVILIZATION HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5110
-#EXTINF:0,19 | DISCOVERY H&H HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5111
-#EXTINF:0,20 | DISCOVERY ID HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5112
-#EXTINF:0,21 | DISCOVERY KIDS HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5113
-#EXTINF:0,22 | DISCOVERY SCIENCE HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5114
-#EXTINF:0,23 | DISCOVERY THEATER HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5115
-#EXTINF:0,24 | DISCOVERY TURBO HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5116
-#EXTINF:0,25 | DISCOVERY WORLD HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5117
-#EXTINF:0,26 | DISNEY CHANNEL HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5118
-#EXTINF:0,27 | DISNEY JUNIOR HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5119
-#EXTINF:0,28 | DISNEY XD HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5120
-#EXTINF:0,29 | E! HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5121
-#EXTINF:0,30 | ESPN BRASIL HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5122
-#EXTINF:0,31 | ESPN EXTRA HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5123
-#EXTINF:0,32 | ESPN HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5124
-#EXTINF:0,33 | FISH TV HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5125
-#EXTINF:0,34 | FOX HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5126
-#EXTINF:0,34 | FOX LIFE HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5127
-#EXTINF:0,35 | FOX PREMIUM 1 HD - BR 
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5128
-#EXTINF:0,36 | FOX PREMIUM 2 HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5129
-#EXTINF:0,37 | FOX SPORTS 2 HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5130
-#EXTINF:0,38 | FUTURA HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5131
-#EXTINF:0,39 | FX HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5132
-#EXTINF:0,38 | GLOBO NEWS HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5133
-#EXTINF:0,39 | GLOBO RIO HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5134
-#EXTINF:0,40 | GLOBO SP HD - NBR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5135
-#EXTINF:0,41 | GLOOB HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5136
-#EXTINF:0,42 | GNT HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5137
-#EXTINF:0,43 | HBO 2 HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5138
-#EXTINF:0,44 | HBO FAMILY HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5139
-#EXTINF:0,45 | HBO HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5140
-#EXTINF:0,46 | HBO PLUS HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5141
-#EXTINF:0,47 | HBO SIGNATURE HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5142
-#EXTINF:0,48 | HISTORY 2 HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5143
-#EXTINF:0,49 | HISTORY HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5144
-#EXTINF:0,50 | LIFETIME HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5145
-#EXTINF:0,51 | MAIS GLOBOSAT HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5146
-#EXTINF:0,52 | MAX HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5147
-#EXTINF:0,53 | MAX PRIME HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5148
-#EXTINF:0,54 | MAX UP HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5149
-#EXTINF:0,55 | MEGAPIX HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5150
-#EXTINF:0,56 | MTV HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5151
-#EXTINF:0,57 | MULTISHOW HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5152
-#EXTINF:0,58 | NAT GEO KIDS HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5153
-#EXTINF:0,59 | NAT GEO WILD HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5154
-#EXTINF:0,60 | NATIONAL GEOGRAPHIC HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5155
-#EXTINF:0,61 | NICK JR HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5156
-#EXTINF:0,62 | NICKELODEON HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5157
-#EXTINF:0,63 | OFF HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5158
-#EXTINF:0,64 | PARAMOUNT HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5159
-#EXTINF:0,65 | PLAY TV HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5160
-#EXTINF:0,66 | PREMIERE 1 HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5161
-#EXTINF:0,67 | PREMIERE 2 HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5162
-#EXTINF:0,68 | PREMIERE 3 HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5163
-#EXTINF:0,69 | PREMIERE 4 HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5164
-#EXTINF:0,70 | PREMIERE 5 HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5165
-#EXTINF:0,71 | PREMIERE 6 HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5166
-#EXTINF:0,72 | PREMIERE 7 HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5167
-#EXTINF:0,73 | PREMIERE 8 HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5168
-#EXTINF:0,74 | PREMIERE CLUBE HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5169
-#EXTINF:0,75 | PRIME BOX BRASIL HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5170
-#EXTINF:0,76 | RECORD HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5171
-#EXTINF:0,77 | RECORD NEWS HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5172
-#EXTINF:0,78 | REDE BRASIL HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5173
-#EXTINF:0,79 | REDE TV HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5174
-#EXTINF:0,80 | REDE VIDA HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5175
-#EXTINF:0,81 | SBT HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5176
-#EXTINF:0,82 | SONY HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5177
-#EXTINF:0,83 | SPACE HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5178
-#EXTINF:0,84 | SPORTV 2 HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5179
-#EXTINF:0,85 | SPORTV 3 HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5180
-#EXTINF:0,86 | STUDIO UNIVERSAL HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5181
-#EXTINF:0,87 | SYFY HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5182
-#EXTINF:0,88 | TBS HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5183
-#EXTINF:0,89 | TCM HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5184
-#EXTINF:0,90 | TELECINE ACTION HD - MR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5185
-#EXTINF:0,91 | TELECINE CULT HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5186
-#EXTINF:0,92 | TELECINE FUN HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5187
-#EXTINF:0,93 | TELECINE PIPOCA HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5188
-#EXTINF:0,94 | TELECINE PREMIUM HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5189
-#EXTINF:0,95 | TELECINE TOUCH HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5190
-#EXTINF:0,96 | TLC HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5191
-#EXTINF:0,97 | TNT HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5192
-#EXTINF:0,98 | TNT SERIES HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5193
-#EXTINF:0,99 | TOONCAST HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5194
-#EXTINF:0,100 | TRAVEL BOX HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5195
-#EXTINF:0,101 | TV BRASIL HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5196
-#EXTINF:0,102 | TV CÂMARA HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5197
-#EXTINF:0,103 | TV CULTURA HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5198
-#EXTINF:0,104 | TV ESCOLA HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5199
-#EXTINF:0,105 | TV GAZETA HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5200
-#EXTINF:0,106 | UNIVERSAL CHANNEL HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5201
-#EXTINF:0,107 | VH1 - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5202
-#EXTINF:0,108 | VIVA HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5203
-#EXTINF:0,109 | WARNER HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5204
-#EXTINF:0,110 | WOOHOO HD - BR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5205
-#EXTINF:0,AR | 5TV Corrientes
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/7400
-#EXTINF:0,ARG | Fenix TV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/7402
-#EXTINF:0,ARG | Net TV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/7403
-#EXTINF:0,ARG | Argentinísima Satelital
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/7404
-#EXTINF:0,ARG | CANAL PROVINCIAL SAN MIGUEL
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/7405
-#EXTINF:0,ARG | CPEtv
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/7406
-#EXTINF:0,ARG | CPEtv
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/7407
-#EXTINF:0,ARG | CPEtv
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/7408
-#EXTINF:0,ARG | Chacra TV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/7418
-#EXTINF:0,ARG | Ciudad TV Chaco
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/7419
-#EXTINF:0,ARG | LA 90 FM
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/7421
-#EXTINF:0,ARG | RTN Neuquén
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/7430
-#EXTINF:0,ARG | RTN Neuquén
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/7431
-#EXTINF:0,ARG | RTN Neuquén
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/7432
-#EXTINF:0,ARG | TV Maná Córdoba
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/7436
-#EXTINF:0,ARG | TV Maná Córdoba
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/7437
-#EXTINF:0,05 | TELENOVELAS HD 
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/8015
-#EXTINF:0,24 | SINART 13
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125904
-#EXTINF:0,23 | TELETICA 7
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125905
-#EXTINF:0,22 | REPRETEL 11
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125906
-#EXTINF:0,21 | REPRETEL 6
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125907
-#EXTINF:0,20 | REPRETEL 4
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125908
-#EXTINF:0,21 | Santa Cruz Tv
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125909
-#EXTINF:0,19 | STV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125910
-#EXTINF:0,18 | Tv Sur canal 9
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125911
-#EXTINF:0,05 | TIGO SPORTS HD (COSTA RICA)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125912
-#EXTINF:0,16| Teleuno
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125913
-#EXTINF:0,15 | TSM 2
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125914
-#EXTINF:0,14 | ETVCR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125915
-#EXTINF:0,13 | Teletica 7
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125916
-#EXTINF:0,11 | Telered
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125917
-#EXTINF:0,10 | Màstv
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125918
-#EXTINF:0,09 | Multimedios Canal 6 
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125919
-#EXTINF:0,08 | Canal Radio Elite
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125920
-#EXTINF:0,07 | Canal Musical
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125922
-#EXTINF:0,06 | LA MEGA TVR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125923
-#EXTINF:0,05 | ANEXION TV 36
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125924
-#EXTINF:0,01| HON-TELECEIBA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125925
-#EXTINF:0,02| HON-CHOLUSAT
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125926
-#EXTINF:0,03| HON-MAYA TV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125927
-#EXTINF:0,04| HON-Que Hubo TV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125928
-#EXTINF:0,05| HON-Globo tv
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125929
-#EXTINF:0,06| Eben Ezer Honduras
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125930
-#EXTINF:0,07| VTV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125931
-#EXTINF:0,08| HON_TELESISTEMA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125932
-#EXTINF:0,09| HON_TELECADENA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125933
-#EXTINF:0,10| HON_SUYAPA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125934
-#EXTINF:0,11| HON_HCH
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125935
-#EXTINF:0,12| HON_CANAL 5
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125936
-#EXTINF:0,13| HON_CANAL 11
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125937
-#EXTINF:0,PARAGUAY | FARRA TV PLAY 
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125964
-#EXTINF:0,PARAGUAY | UNICANAL HD 
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125965
-#EXTINF:0,----- NICARAGUA ------
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125966
-#EXTINF:0,01 | CANAL 10 NICARAGUA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125967
-#EXTINF:0,02 | CANAL 2 NICARAGUA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125968
-#EXTINF:0,03 | CANAL 8 NICARAGUA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125969
-#EXTINF:0,04 | Canal 23 NICARAGUA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125970
-#EXTINF:0,05 | Canal 13 NICARAGUA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125971
-#EXTINF:0,06 | Canal 12 NICARAGUA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125972
-#EXTINF:0,07 | Canal 11 NICARAGUA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125973
-#EXTINF:0,08 | CANAL 9 NICARAGUA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125974
-#EXTINF:0,09 | Canal 6 NICARAGUA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125975
-#EXTINF:0,10 | NICARAGUA | Canal 4
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125976
-#EXTINF:0,01 | CANAZATEL
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125977
-#EXTINF:0,01 | GOLTV FHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125987
-#EXTINF:0,02 | GOLTV HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125989
-#EXTINF:0,03 | GOLTV SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125991
-#EXTINF:0,04 | GOLTV USA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125993
-#EXTINF:0,05 | GOLTV INGLES
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/125995
-#EXTINF:0,SPAIN | TCM HD HEVC
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126161
-#EXTINF:0,SPAIN | SYFY HD HEVC
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126162
-#EXTINF:0,SPAIN | NATIONAL GEO WILD HD HEVC
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126163
-#EXTINF:0,SPAIN | MEZZO LIVE HD HEVC
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126164
-#EXTINF:0,SPAIN | TRECE TV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126165
-#EXTINF:0,SPAIN | BLAZE
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126166
-#EXTINF:0,SPAIN | BABY TV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126167
-#EXTINF:0,SPAIN | #0 HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126168
-#EXTINF:0,SPAIN | #VAMOS HD HEVC
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126169
-#EXTINF:0,SPAIN | 24H
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126170
-#EXTINF:0,SPAIN | A3 SERIES HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126171
-#EXTINF:0,SPAIN | COMEDY CENTRAL HD HEVC
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126172
-#EXTINF:0,SPAIN | BLOOMBERG
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126173
-#EXTINF:0,SPAIN | CANAL GOLF FHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126174
-#EXTINF:0,SPAIN | CANAL ODISEA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126175
-#EXTINF:0,SPAIN | CANAL PANDA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126176
-#EXTINF:0,SPAIN | CANAL SUR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126177
-#EXTINF:0,SPAIN | CRIME AND INVESTIGATION
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126178
-#EXTINF:0,SPAIN | DISCOVERY CHANNELHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126179
-#EXTINF:0,SPAIN | DMAX
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126180
-#EXTINF:0,SPAIN | FOX NEWS
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126181
-#EXTINF:0,SPAIN | GALICIA TV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126182
-#EXTINF:0,SPAIN | MOVISTAR COMEDIA HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126183
-#EXTINF:0,SPAIN | MOVISTAR SERIE HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126184
-#EXTINF:0,SPAIN | MOVISTAR SERIE MANIA HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126185
-#EXTINF:0,SPAIN | TAQUILLA 1 HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126186
-#EXTINF:0,SPAIN | TAQUILLA 2 HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126187
-#EXTINF:0,SPAIN | TAQUILLA 3 HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126188
-#EXTINF:0,SPAIN | TAQUILLA 4 HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126189
-#EXTINF:0,SPAIN | TAQUILLA 5 HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126190
-#EXTINF:0,SPAIN | TAQUILLA 6 HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126191
-#EXTINF:0,SPAIN | TOROS HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126192
-#EXTINF:0,SPAIN | TVE 24H
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126193
-#EXTINF:0,SPAIN | IBERALIA TV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126194
-#EXTINF:0,SPAIN | MEZZO LIVE HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126195
-#EXTINF:0,SPAIN | Movistar Liga de Campeones HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126196
-#EXTINF:0,SPAIN | FOX LIFE HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126197
-#EXTINF:0,SPAIN | FOX HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126198
-#EXTINF:0,SPAIN | FDF
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126199
-#EXTINF:0,SPAIN | DKISS
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126200
-#EXTINF:0,SPAIN | DIVINITY HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126201
-#EXTINF:0,SPAIN | DISNEY CHANEL HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126202
-#EXTINF:0,SPAIN | DISNEY XD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126203
-#EXTINF:0,SPAIN | DISNEY JR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126204
-#EXTINF:0,SPAIN | CANAL CASA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126205
-#EXTINF:0,SPAIN | COSMO HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126206
-#EXTINF:0,SPAIN | COMEDY CENTRAL HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126207
-#EXTINF:0,SPAIN | CANAL COCINA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126208
-#EXTINF:0,SPAIN | CLAN TVE
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126209
-#EXTINF:0,SPAIN | CAZA Y PESCA HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126210
-#EXTINF:0,SPAIN | CALLE 13 HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126211
-#EXTINF:0,SPAIN | TVE LA 1 HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126212
-#EXTINF:0,SPAIN | TVE LA 2 HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126213
-#EXTINF:0,SPAIN | ANTENA 3 HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126214
-#EXTINF:0,SPAIN | CUATRO HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126215
-#EXTINF:0,SPAIN | LA SEXTA HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126216
-#EXTINF:0,SPAIN | MOVISTAR ACCION HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126217
-#EXTINF:0,SPAIN | MOVISTAR Disney HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126218
-#EXTINF:0,SPAIN | MOVISTAR CINE N
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126219
-#EXTINF:0,SPAIN | MoviStar ESTRENOS HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126220
-#EXTINF:0,SPAIN | MTV ESPAÑA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126221
-#EXTINF:0,SPAIN | NAT GEO HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126222
-#EXTINF:0,SPAIN | NAT GEO WILD HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126223
-#EXTINF:0,SPAIN | NICK JUNIOR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126224
-#EXTINF:0,SPAIN | NICKELODEON HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126225
-#EXTINF:0,SPAIN | ODESEA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126226
-#EXTINF:0,SPAIN | PANDA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126227
-#EXTINF:0,SPAIN | SUNDANCE HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126228
-#EXTINF:0,SPAIN | SYFY HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126229
-#EXTINF:0,SPAIN | TCM HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126230
-#EXTINF:0,SPAIN | TELEMADRID HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126231
-#EXTINF:0,SPAIN | TNT HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126232
-#EXTINF:0,SPAIN | XTRM
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126233
-#EXTINF:0,SPAIN | VIAJAR HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126234
-#EXTINF:0,SPAIN | HOLLYWOOD HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126235
-#EXTINF:0,SPAIN | BOING
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126236
-#EXTINF:0,SPAIN | NOVA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126237
-#EXTINF:0,SPAIN | AMC HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126238
-#EXTINF:0,SPAIN | ARAGON TV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126239
-#EXTINF:0,SPAIN | AXN HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126240
-#EXTINF:0,SPAIN | AXN WHITE HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126241
-#EXTINF:0,SPAIN | BARCA TV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126242
-#EXTINF:0,SPAIN | BE MAD HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126243
-#EXTINF:0,SPAIN | BLAZE
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126244
-#EXTINF:0,SPAIN | MOVISTAR ACCION HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126245
-#EXTINF:0,SPAIN | MOVISTAR DRAMA HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126246
-#EXTINF:0,SPAIN | SERIES MANIA FHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126247
-#EXTINF:0,SPAIN | COMEDIA.
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126248
-#EXTINF:0,SPAIN |  CINE ESPANOL
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126249
-#EXTINF:0,SPAIN | AXN WHITE.
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126250
-#EXTINF:0,SPAIN | NICKELODEON
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126251
-#EXTINF:0,SPAIN | CALLE 13 HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126252
-#EXTINF:0,SPAIN | COSMO HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126253
-#EXTINF:0,SPAIN | FOX
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126254
-#EXTINF:0,SPAIN | FOX LIFE HD.
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126255
-#EXTINF:0,SPAIN | NEOX
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126256
-#EXTINF:0,SPAIN | ENERGY
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126257
-#EXTINF:0,SPAIN | COCINA TV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126258
-#EXTINF:0,SPAIN | TVE
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126259
-#EXTINF:0,SPAIN | TELECINCO HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126260
-#EXTINF:0,SPAIN | CUATRO HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126261
-#EXTINF:0,SPAIN | ANTENA 3 HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126262
-#EXTINF:0,SPAIN | LA 2
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126263
-#EXTINF:0,SPAIN | LA 1 HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126264
-#EXTINF:0,SPAIN | LA 1 HD HEVC
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126265
-#EXTINF:0,SPAIN | TNT HD HEVC
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126266
-#EXTINF:0,SPAIN |  VIAJAR HD HEVC
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126267
-#EXTINF:0,SPAIN | #VAMOS HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126268
-#EXTINF:0,SPAIN | MOVISTAR SERIES HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126269
-#EXTINF:0,SPAIN | I24 NEWS
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126270
-#EXTINF:0,SPAIN | DISNEY CHANNEL HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126271
-#EXTINF:0,SPAIN | ACCION HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126272
-#EXTINF:0,SPAIN | IBERALIA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126273
-#EXTINF:0,SPAIN | HISTORIA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126274
-#EXTINF:0,SPAIN | MOVISTAR ESTRENOS
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126275
-#EXTINF:0,SPAIN | MOVISTAR FORMULA 1 HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126276
-#EXTINF:0,SPAIN | ODISEA FHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126277
-#EXTINF:0,SPAIN | COSMO.
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126278
-#EXTINF:0,SPAIN | MOVISTAR DRAMA HD HEVC
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126279
-#EXTINF:0,SPAIN | HOLLYWOOD HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126280
-#EXTINF:0,SPAIN | FOX LIFE HD HEVC
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126281
-#EXTINF:0,SPAIN | FOX HD HEVC
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126282
-#EXTINF:0,********** GENERAL **********
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126298
-#EXTINF:0,ES || LA 1
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126299
-#EXTINF:0,ES || LA 1 FHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126301
-#EXTINF:0,ES || LA 2
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126302
-#EXTINF:0,ES || La 2 FHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126303
-#EXTINF:0,ES || ANTENA 3
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126304
-#EXTINF:0,ES || ANTENA 3 FHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126306
-#EXTINF:0,ES || CUATRO HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126307
-#EXTINF:0,ES || CUATRO FHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126309
-#EXTINF:0,ES || TELECINCO
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126310
-#EXTINF:0,ES || TELECINCO FULLHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126312
-#EXTINF:0,ES || LA SEXTA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126313
-#EXTINF:0,ES || LA SEXTA  FHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126315
-#EXTINF:0,--------ESPAÑA CINE--------------
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126316
-#EXTINF:0,ES || MOVISTAR  0#
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126317
-#EXTINF:0,ES || MOVISTAR 0# FULLHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126318
-#EXTINF:0,ES || MOVISTAR ESTRENOS HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126319
-#EXTINF:0,ES || MOVISTAR ESTRENOS
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126320
-#EXTINF:0,ES || MOVISTAR ESTRENOS FULLHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126321
-#EXTINF:0,ES || MOVISTAR ACCION HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126322
-#EXTINF:0,ES || MOVISTAR  ACCION
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126323
-#EXTINF:0,ES || MOVISTAR ACCION FHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126324
-#EXTINF:0,ES || MOVISTAR COMEDIA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126325
-#EXTINF:0,ES || MOVISTAR COMEDIA FHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126326
-#EXTINF:0,ES || MOVISTAR COMEDIA HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126327
-#EXTINF:0,ES || MOVISTAR DRAMA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126328
-#EXTINF:0,ES || MOVISTAR DRAMA HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126329
-#EXTINF:0,ES || MOVISTAR DRAMA FHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126330
-#EXTINF:0,ES || MOVISTAR DCINE Ã‘
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126331
-#EXTINF:0,ES || MOVISTAR CINEDOC&ROLL
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126332
-#EXTINF:0,ES || MOVISTAR CINEDOC&ROLL FHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126333
-#EXTINF:0,ES || HOLLYWOOD HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126334
-#EXTINF:0,ES || HOLLYWOOD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126335
-#EXTINF:0,ES || HOLLYWOOD FHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126336
-#EXTINF:0,ES || TCM
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126337
-#EXTINF:0,ES || TCM HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126338
-#EXTINF:0,ES || TCM FHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126339
-#EXTINF:0,ES || SUNDANCE
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126340
-#EXTINF:0,ES || SUNDANCE FHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126341
-#EXTINF:0,ES || DARK
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126342
-#EXTINF:0,ES || XTREM SD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126343
-#EXTINF:0,ES || MOVISTAR CINEDOC&ROLL HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126344
-#EXTINF:0,ES || COMEDY CENTRAL HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126345
-#EXTINF:0,ES || XTRM FULLHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126346
-#EXTINF:0,ES || SOMOS
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126347
-#EXTINF:0,ES || PARAMOUNT CHANNEL
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126348
-#EXTINF:0,--------- Series -----------
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126349
-#EXTINF:0,ES || MOVISTAR SERIES
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126350
-#EXTINF:0,ES || MOVISTAR SERIES HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126351
-#EXTINF:0,ES || MOVISTAR SERIES FULLHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126352
-#EXTINF:0,ES || XTREM HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126353
-#EXTINF:0,ES || TNT HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126354
-#EXTINF:0,ES || MOVISTAR SERIESMANIA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126355
-#EXTINF:0,ES || MOVISTAR SERIESMANIA FULLHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126356
-#EXTINF:0,ES || CALLE 13
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126357
-#EXTINF:0,ES || CALLE 13 FULLHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126358
-#EXTINF:0,ES || FOX
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126359
-#EXTINF:0,ES || FOX FULLHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126360
-#EXTINF:0,ES || FOX LIFE
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126361
-#EXTINF:0,ES || FOX LIFE FHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126362
-#EXTINF:0,ES || AXN
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126363
-#EXTINF:0,ES || AXN HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126364
-#EXTINF:0,ES || AXN FULL HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126365
-#EXTINF:0,ES || AXN  WHITE
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126366
-#EXTINF:0,ES || AXN  WHITE FHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126367
-#EXTINF:0,ES || AMC
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126368
-#EXTINF:0,ES || AMC FHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126369
-#EXTINF:0,ES || FOX LIVE HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126370
-#EXTINF:0,ES || FOX HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126371
-#EXTINF:0,ES || TNT
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126372
-#EXTINF:0,ES || TNT FHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126373
-#EXTINF:0,ES || SYFY
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126374
-#EXTINF:0,ES || SYFY HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126375
-#EXTINF:0,ES || SYFY FHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126376
-#EXTINF:0,ES || CALLE 13 HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126377
-#EXTINF:0,ES || COSMOS
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126378
-#EXTINF:0,ES || COSMOS HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126379
-#EXTINF:0,ES || COSMOPOLITAN  FULLHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126380
-#EXTINF:0,ES || COMEDY  CENTRAL
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126381
-#EXTINF:0,ES || AXN WHITE HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126382
-#EXTINF:0,ES || COMEDY CENTRAL FULLHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126383
-#EXTINF:0,ES || MTV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126384
-#EXTINF:0,ES || FDF
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126385
-#EXTINF:0,ES || DKISS
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126386
-#EXTINF:0,ES || A3SERIES
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126387
-#EXTINF:0,-----------ESTILO DE VIDA --------------
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126388
-#EXTINF:0,ES || ENERGY
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126389
-#EXTINF:0,ES || DIVINITY
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126390
-#EXTINF:0,ES || CRIMEN  + INVESTIGACION
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126391
-#EXTINF:0,ES || DECASA HS
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126392
-#EXTINF:0,ES || DECASA FULLHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126393
-#EXTINF:0,ES || CANAL COCINA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126394
-#EXTINF:0,ES || CANAL COCINA FULLHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126395
-#EXTINF:0,ES || BE MAD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126396
-#EXTINF:0,ES || BE MAD FHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126397
-#EXTINF:0,ES || NEOX
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126398
-#EXTINF:0,ES || NOVA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126399
-#EXTINF:0,---------- INFANTIL------------
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126400
-#EXTINF:0,ES || MOVISTAR DISNEY
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126401
-#EXTINF:0,ES || NICKELODEON HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126402
-#EXTINF:0,ES || DISNEY  XD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126403
-#EXTINF:0,ES || DISNEY CHANNEL
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126404
-#EXTINF:0,ES || DISNEY CHANNEL FULLHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126405
-#EXTINF:0,ES || CLAN
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126406
-#EXTINF:0,ES || CLAN FULLHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126407
-#EXTINF:0,ES || BOING
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126408
-#EXTINF:0,ES || CANAL PANDA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126409
-#EXTINF:0,ES || DISNEY CHANNEL HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126410
-#EXTINF:0,ES || CLAN HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126411
-#EXTINF:0,ES || BABY  TV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126412
-#EXTINF:0,ES || NICKELODEON
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126413
-#EXTINF:0,ES || NICKELODEON FULLHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126414
-#EXTINF:0,ES || NICK JR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126415
-#EXTINF:0,---------Culturales ------------
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126416
-#EXTINF:0,ES || HISTORIA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126417
-#EXTINF:0,ES || HISTORIA HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126418
-#EXTINF:0,ES || HISTORIA FHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126419
-#EXTINF:0,ES || DISCOVERY  CHANNEL
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126420
-#EXTINF:0,ES || CAZA Y PESCA HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126421
-#EXTINF:0,ES || CANAL COCINA HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126422
-#EXTINF:0,ES || ODISEA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126423
-#EXTINF:0,ES || NATIONAL GEOGRAPHIC
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126424
-#EXTINF:0,ES || NATIONAL GEOGRAPHIC HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126425
-#EXTINF:0,ES || DECASA HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126426
-#EXTINF:0,ES || NATIONAL GEOGRAFIC WILD HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126427
-#EXTINF:0,ES || NATIONAL GEOGRAPHIC FULLHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126428
-#EXTINF:0,ES || NATIONAL GEOGRAFIC WILD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126429
-#EXTINF:0,ES || NATIONAL GEOGRAFIC WILD FULLHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126430
-#EXTINF:0,ES || BE MAD HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126431
-#EXTINF:0,ES || DMAX
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126432
-#EXTINF:0,ES || TEN
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126433
-#EXTINF:0,ES || BLAZE
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126434
-#EXTINF:0,ES || Viajar
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126435
-#EXTINF:0,ES || VIAJAR HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126436
-#EXTINF:0,ES || VIAJAR FULLHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126437
-#EXTINF:0,ES || CAZA  Y PESCA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126438
-#EXTINF:0,ES || CAZA Y PESCA FULLHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126439
-#EXTINF:0,***** MUSICA *****
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126440
-#EXTINF:0,ES || SOL Music
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126441
-#EXTINF:0,ES || MEZZO LIVE
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126442
-#EXTINF:0,ES || MEZZO LIVE FULL HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126443
-#EXTINF:0,ES ||  MTV HIT TV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126444
-#EXTINF:0,***** TAQUILLA *****
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126445
-#EXTINF:0,ES || TAQUILLA 1
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126446
-#EXTINF:0,ES || TAQUILLA 2
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126447
-#EXTINF:0,ES || TAQUILLA 3
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126448
-#EXTINF:0,ES || TAQUILLA 4
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126449
-#EXTINF:0,ES || TAQUILLA 5
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126450
-#EXTINF:0,ES || TAQUILLA 6
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126451
-#EXTINF:0,---------SPORTS ESPAÑA----------
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126452
-#EXTINF:0,ES || DAZN - F1 GP FULL HD 
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126453
-#EXTINF:0,ES || DAZN 1 HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126454
-#EXTINF:0,ES || DAZN 1 FHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126455
-#EXTINF:0,ES || BARCA TV
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126456
-#EXTINF:0,ES || MOVISTAR LA LIGA
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126457
-#EXTINF:0,ES || MOVISTAR LALIGA HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126458
-#EXTINF:0,ES || MOVISTAR LA LIGA FULLHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126459
-#EXTINF:0,ES || LIGA TV BAR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126460
-#EXTINF:0,ES || LIGATV BAR HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126461
-#EXTINF:0,ES || # VAMOS BAR 1
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126462
-#EXTINF:0,ES || # VAMOS BAR HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126463
-#EXTINF:0,ES || LIGA TV 1 BAR
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126464
-#EXTINF:0,ES || MOVISTAR  LALIGA 2
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126465
-#EXTINF:0,ES || LIGA TV BAR 3 (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126466
-#EXTINF:0,ES || LIGA TV BAR 4 (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126467
-#EXTINF:0,ES || MOVISTAR  LA LIGA 3 (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126468
-#EXTINF:0,ES || MOVISTAR LA LIGA 8 (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126469
-#EXTINF:0,ES || MOVISTAR LA LIGA 9 (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126471
-#EXTINF:0,ES || MOVISTAR LA LIGA 4 (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126472
-#EXTINF:0,ES || MOVISTAR LA LIGA 5 (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126473
-#EXTINF:0,ES || MOVISTAR LA LIGA 6 (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126474
-#EXTINF:0,ES || LA  7 HD 
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126475
-#EXTINF:0,ES || MOVISTAR LA LIGA 2 FHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126476
-#EXTINF:0,ES || MOVISTAR LA LIGA 3 FULLHD (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126477
-#EXTINF:0,ES || MOVISTAR VAMOS HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126478
-#EXTINF:0,ES || MOVISTAR TOROS HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126479
-#EXTINF:0,ES || MOVISTAR LA LIGA 1 FULLHD (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126480
-#EXTINF:0,ES || MOVISTAR F1 HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126481
-#EXTINF:0,ES || MOVISTAR F1 FULLHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126482
-#EXTINF:0,ES || MOVISTAR GOLF HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126483
-#EXTINF:0,ES || LIGA TV BAR HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126484
-#EXTINF:0,ES || MOVISTAR LALIGA 1 (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126485
-#EXTINF:0,ES || MOVISTAR LIGA CAMPEONES
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126486
-#EXTINF:0,ES || MOVISTAR LIGA CAMPEONES FHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126487
-#EXTINF:0,ES || MOVISTAR LIGA CAMPEONES 1 (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126488
-#EXTINF:0,ES || MOVISTAR LIGA CAMPEONES 1 FULLHD (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126489
-#EXTINF:0,ES || MOVISTAR LIGA DE CAMPEONES 2 (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126490
-#EXTINF:0,ES || MOVISTAR LIGA CAMPEONES 2 FULLHD (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126491
-#EXTINF:0,ES || MOVISTAR LIGA CAMPEONES 3  Espa (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126492
-#EXTINF:0,ES || MOVISTAR LIGA DE CAMPEONES 4 (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126493
-#EXTINF:0,ES || MOVISTAR LIGA CAMPEONES 5 (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126494
-#EXTINF:0,ES || MOVISTAR LIGA CAMPEONES 6 (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126495
-#EXTINF:0,ES || MOVISTAR LIGA CAMPEONES 7 (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126496
-#EXTINF:0,ES || MOVISTAR LIGA CAMPEONES  FHD  (Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126497
-#EXTINF:0,ES || ESPORT 3
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126498
-#EXTINF:0,ES || TELEDEPORTE FULL HD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126499
-#EXTINF:0,ES || TELEDEPORTE
-#EXTVLCOPT:network-caching=1000
+#EXTINF:0 type="stream" channelId="4773" group="CO", CARACOL
+http://disfruta.net:80/jhanersongutierrez/TGF04NyqZs/260
+#EXTINF:0 type="stream" channelId="4773" group="CO", CARACOL HD 2
+http://disfruta.net:80/jhanersongutierrez/TGF04NyqZs/262
+#EXTINF:0 type="stream" channelId="3733" group="CO", CARACOL INTERNACIONAL
+http://disfruta.net:80/jhanersongutierrez/TGF04NyqZs/263
+#EXTINF:0 type="stream" channelId="4770" group="CO", CABLENOTICIAS
+http://disfruta.net:80/jhanersongutierrez/TGF04NyqZs/2
+#EXTINF:0 type="stream" channelId="3780" group="CO", NTN24
+http://disfruta.net:80/jhanersongutierrez/TGF04NyqZs/266
+#EXTINF:0 type="stream" channelId="-1" group="CO" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9rWpS3eO-yaRZSULssIrvOfORTdHOcLXJu20sOuSme2pApGUvUCjlS3O67HjQ3y_S_6o&usqp=CAU", TELEMEDELLIN
+http://disfruta.net:80/jhanersongutierrez/TGF04NyqZs/272
+#EXTINF:0 type="stream" channelId="2488" group="CO", SEÑAL COLOMBIA
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4875
+#EXTINF:0 type="stream" channelId="4786" group="CO", CO | TELEPACIFICO *HD
+http://disfruta.net:80/jhanersongutierrez/TGF04NyqZs/273
+#EXTINF:0 type="stream" channelId="4771" group="CO", CANAL TRECE
+http://disfruta.net:80/jhanersongutierrez/TGF04NyqZs/275
+#EXTINF:0 type="stream" channelId="2124", ANTENA 3
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2070
+#EXTINF:0 type="stream" channelId="4785" group="CO", CO | TELECARIBE
+http://disfruta.net:80/jhanersongutierrez/TGF04NyqZs/271
+#EXTINF:0 type="stream" channelId="3799" group="CO", TV AGRO
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3586
+#EXTINF:0 type="stream" channelId="-1" group="CINE", Star Channell
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2693
+#EXTINF:0 type="stream" channelId="-1" group="CINE", STAR CINEMA
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2695
+#EXTINF:0 type="stream" channelId="-1" group="CINE", STAR COMEDY
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2696
+#EXTINF:0 type="stream" channelId="-1" group="CINE", STAR FAMILY
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2697
+#EXTINF:0 type="stream" channelId="-1" group="CINE", STAR MOVIE
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2698
+#EXTINF:0 type="stream" channelId="-1" group="CINE", STAR SERIES
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2786
+#EXTINF:0 type="stream" channelId="1328" group="DEPORTES", FOX SPORTS
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2787
+#EXTINF:0 type="stream" channelId="170" group="DEPORTES", FOX SPORTS 2
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2788
+#EXTINF:0 type="stream" channelId="1330" group="CINE", HBO
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2790
+#EXTINF:0 type="stream" channelId="935" group="CINE", HBO 2
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2791
+#EXTINF:0 type="stream" channelId="2584" group="CINE", HBO Family
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2792
+#EXTINF:0 type="stream" channelId="2585" group="CINE", HBO Plus
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2793
+#EXTINF:0 type="stream" channelId="2583" group="CINE", HBO Signature
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2794
+#EXTINF:0 type="stream" channelId="361" group="CINE", HBO Pop
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2795
+#EXTINF:0 type="stream" channelId="-1" group="CINE", CINE CANAL
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2804
+#EXTINF:0 type="stream" channelId="2725" group="CINE", HBO Mundi
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2796
+#EXTINF:0 type="stream" channelId="1052" group="CINE", TNT
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2797
+#EXTINF:0 type="stream" channelId="1573" group="CINE", AXN
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2801
+#EXTINF:0 type="stream" channelId="2684" group="CINE", TNT Serie
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2798
+#EXTINF:0 type="stream" channelId="164" group="Entretenimiento", Nat Geo WILD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2799
+#EXTINF:0 type="stream" channelId="321" group="INFANTIL", Boomerang
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2802
+#EXTINF:0 type="stream" channelId="40" group="INFANTIL", Cartoon Network
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2803
+#EXTINF:0 type="stream" channelId="-1", 26 | COMEDY CENTRAL ®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2805
+#EXTINF:0 type="stream" channelId="-1", 28 | DISCOVERY CHANNEL®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2807
+#EXTINF:0 type="stream" channelId="-1", 29 | DISCOVERY CIVILITATION ®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2808
+#EXTINF:0 type="stream" channelId="-1", 30 | DISCOVERY H&H ®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2809
+#EXTINF:0 type="stream" channelId="-1", 31 | DISCOVERY ID ®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2810
+#EXTINF:0 type="stream" channelId="-1", 32 | DISCOVERY KIDS ®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2811
+#EXTINF:0 type="stream" channelId="-1", 33 | DISCOVERY SCIENCE ®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2812
+#EXTINF:0 type="stream" channelId="-1", 34 | DISCOVERY TURBO ®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2813
+#EXTINF:0 type="stream" channelId="-1", 35 | DISCOVERY WORLD ®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2814
+#EXTINF:0 type="stream" channelId="-1", 38 | DISNEY XD ®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2820
+#EXTINF:0 type="stream" channelId="-1", 37 | DISNEY JR ®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2819
+#EXTINF:0 type="stream" channelId="-1", 39 | ESPN 2 ®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2821
+#EXTINF:0 type="stream" channelId="-1", 40 | ESPN 3
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2822
+#EXTINF:0 type="stream" channelId="-1", 41 | ESPN ®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2823
+#EXTINF:0 type="stream" channelId="-1", 44 | PARAMOUNT ®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2826
+#EXTINF:0 type="stream" channelId="-1", 46 | SONY ®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3007
+#EXTINF:0 type="stream" channelId="-1", 48 | STUDIO UNIVERSAL ®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3009
+#EXTINF:0 type="stream" channelId="-1", 51 | UNIVERSAL CHANNEL ®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3012
+#EXTINF:0 type="stream" channelId="-1", 52 | WARNER ®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3013
+#EXTINF:0 type="stream" channelId="-1", 53 | ESPN PLUS ®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3014
+#EXTINF:0 type="stream" channelId="-1", 57 | H2 ®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3018
+#EXTINF:0 type="stream" channelId="-1", SUR | CARACOL NACIONAL
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4810
+#EXTINF:0 type="stream" channelId="-1", 49 | SYFY ®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3010
+#EXTINF:0 type="stream" channelId="-1", 50 | TLC ®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3011
+#EXTINF:0 type="stream" channelId="-1", 54 | MAX PRIME ®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3015
+#EXTINF:0 type="stream" channelId="-1", 55 | DISCOVERY THEATER ®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3016
+#EXTINF:0 type="stream" channelId="-1", 56 | FX ®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3017
+#EXTINF:0 type="stream" channelId="-1", 58 | AMC ®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3019
+#EXTINF:0 type="stream" channelId="-1", 59 | A&E ®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3020
+#EXTINF:0 type="stream" channelId="-1", 60 | FILM&ARTS UHD®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3021
+#EXTINF:0 type="stream" channelId="-1", 61 | NICK 2 ®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3022
+#EXTINF:0 type="stream" channelId="-1", 62 | NICK ®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3023
+#EXTINF:0 type="stream" channelId="-1", 63 | TELEMUNDO ®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3024
+#EXTINF:0 type="stream" channelId="-1", 64 | WIN SPORTS ®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3025
+#EXTINF:0 type="stream" channelId="-1", 65 | AZ CLICK ®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3026
+#EXTINF:0 type="stream" channelId="-1", 66| DHE ®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3028
+#EXTINF:0 type="stream" channelId="-1", 67 | E ENTERTAIMENTS ®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3029
+#EXTINF:0 type="stream" channelId="-1", 68 | GOLF CHANNEL ®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3030
+#EXTINF:0 type="stream" channelId="-1", 69| MTV®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3031
+#EXTINF:0 type="stream" channelId="-1", 70 | STAR TVE HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3032
+#EXTINF:0 type="stream" channelId="-1", 71 | SUNDANCE ®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3033
+#EXTINF:0 type="stream" channelId="-1", 72 | CANAL U ®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3034
+#EXTINF:0 type="stream" channelId="-1", 73 | VH1 ®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3035
+#EXTINF:0 type="stream" channelId="-1", 74 | ESPN SUR ®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3036
+#EXTINF:0 type="stream" channelId="-1", 75 | ESPN 2 SUR ®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3037
+#EXTINF:0 type="stream" channelId="-1", 76 | ESPN 3 SUR ®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3038
+#EXTINF:0 type="stream" channelId="-1", 77 | FOX SPORTS 1 SUR ®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3039
+#EXTINF:0 type="stream" channelId="-1", 78 | FOX SPORTS 3 SUR ®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3041
+#EXTINF:0 type="stream" channelId="-1", 01 |  MC 90's
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3173
+#EXTINF:0 type="stream" channelId="-1", 04 |  VEVO 80's Hits
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3176
+#EXTINF:0 type="stream" channelId="-1", 12 |  World Street Music Hits
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3184
+#EXTINF:0 type="stream" channelId="-1", 15 | VEVO Only Hits 2K
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3187
+#EXTINF:0 type="stream" channelId="-1", 10 | VEVO Latino Hits 2K
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3182
+#EXTINF:0 type="stream" channelId="-1", 13 | Euro Indie Music UK
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3185
+#EXTINF:0 type="stream" channelId="-1", 18 | Telemusica 2K Hits
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3190
+#EXTINF:0 type="stream" channelId="-1", 19 |  M2o Tv Y2K
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3191
+#EXTINF:0 type="stream" channelId="-1", 01 | TVN HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3306
+#EXTINF:0 type="stream" channelId="-1", 02 | TELETRAK HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3307
+#EXTINF:0 type="stream" channelId="-1", 03 | MEGA
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3308
+#EXTINF:0 type="stream" channelId="-1", 01 | FOX SPORTS 1 HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3309
+#EXTINF:0 type="stream" channelId="-1", 04 | 24 HORAS HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3310
+#EXTINF:0 type="stream" channelId="-1", 02 | FOX SPORTS 2 HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3312
+#EXTINF:0 type="stream" channelId="-1", 03 | TNT SPORTS
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3313
+#EXTINF:0 type="stream" channelId="-1", 06 | LA RED
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3315
+#EXTINF:0 type="stream" channelId="-1", 07 | CNN CHILE
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3316
+#EXTINF:0 type="stream" channelId="-1", 03 | LATINA
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3321
+#EXTINF:0 type="stream" channelId="-1", 04 | CANAL N
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3324
+#EXTINF:0 type="stream" channelId="-1", 06 | MOVISTAR DEPORTES
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3326
+#EXTINF:0 type="stream" channelId="-1", 07 | MOVISTAR PLUS
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3327
+#EXTINF:0 type="stream" channelId="-1", 08 | PANAMERICANA
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3328
+#EXTINF:0 type="stream" channelId="-1", 09 | PLUS TV
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3329
+#EXTINF:0 type="stream" channelId="-1", 11 | CANAL IPE HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3331
+#EXTINF:0 type="stream" channelId="-1", 18 | CMD PERU
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3338
+#EXTINF:0 type="stream" channelId="-1", 23 | Cultura 24
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3345
+#EXTINF:0 type="stream" channelId="-1", 27 | PANAMERICANA HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3350
+#EXTINF:0 type="stream" channelId="-1", 28 | PERU MAGICO HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3351
+#EXTINF:0 type="stream" channelId="-1", 29 | RPP HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3352
+#EXTINF:0 type="stream" channelId="-1", 08 | TVN HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3525
+#EXTINF:0 type="stream" channelId="-1", 04 | DIRECTV SPORTS CHILE
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3526
+#EXTINF:0 type="stream" channelId="-1", 05| FOX SPORTS HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3527
+#EXTINF:0 type="stream" channelId="-1", 06|  ESPN 2 CHILE
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3528
+#EXTINF:0 type="stream" channelId="-1", 09| MEGA HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3529
+#EXTINF:0 type="stream" channelId="-1", 07 | TNT SPORTS UHD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3530
+#EXTINF:0 type="stream" channelId="-1", 10 | CNN ESPAÑOL CHILE
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3531
+#EXTINF:0 type="stream" channelId="-1", 11 | CANAL 13 C
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3532
+#EXTINF:0 type="stream" channelId="-1", 12 |  24 HORAS CL
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3533
+#EXTINF:0 type="stream" channelId="-1", 01 | TV PUBLICA HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3534
+#EXTINF:0 type="stream" channelId="-1", 02 | TELEMAX
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3535
+#EXTINF:0 type="stream" channelId="-1", 03 | TELEFE
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3536
+#EXTINF:0 type="stream" channelId="-1", 04 | PAKA PAKA
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3537
+#EXTINF:0 type="stream" channelId="-1", ES || TELEDEPORTE
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126500
-#EXTINF:0,ES || MOVISTAR DEPORTE FULLHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126501
-#EXTINF:0,ES || MOVISTAR DEPORTE 1 FULLHD
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126502
-#EXTINF:0,ES || MOVISTAR DEPORTE 1
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126503
-#EXTINF:0,ES || MOVISTAR DEPORTE 2 (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126504
-#EXTINF:0,ES || MOVISTAR DEPORTE 3 (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126505
-#EXTINF:0,ES || MOVISTAR DEPORTE 4 (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126506
-#EXTINF:0,ES || MOVISTAR DEPORTE 5 (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126507
-#EXTINF:0,ES || MOVISTAR DEPORTE 6 (Solo Eventos)
-#EXTVLCOPT:network-caching=1000
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126508
+#EXTINF:0 type="stream" channelId="-1", ES || LIGA TV BAR HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126484
+#EXTINF:0 type="stream" channelId="-1", ES || MOVISTAR LALIGA 1 (Solo Eventos)
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126485
+#EXTINF:0 type="stream" channelId="-1", ES || DAZN - F1 GP FULL HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126453
+#EXTINF:0 type="stream" channelId="-1", ES || TAQUILLA 6
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126451
+#EXTINF:0 type="stream" channelId="-1", ES || TAQUILLA 5
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126450
+#EXTINF:0 type="stream" channelId="-1", ES || TAQUILLA 4
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126449
+#EXTINF:0 type="stream" channelId="-1", ES || TAQUILLA 3
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126448
+#EXTINF:0 type="stream" channelId="-1", ES || TAQUILLA 2
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126447
+#EXTINF:0 type="stream" channelId="-1", ES || TAQUILLA 1
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126446
+#EXTINF:0 type="stream" channelId="-1", ***** TAQUILLA *****
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126445
+#EXTINF:0 type="stream" channelId="-1", ES ||  MTV HIT TV
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126444
+#EXTINF:0 type="stream" channelId="-1", ES || MEZZO LIVE FULL HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126443
+#EXTINF:0 type="stream" channelId="-1", ES || MEZZO LIVE
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126442
+#EXTINF:0 type="stream" channelId="-1", ES || SOL Music
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126441
+#EXTINF:0 type="stream" channelId="-1", ES || BLAZE
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126434
+#EXTINF:0 type="stream" channelId="-1", ES || TEN
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126433
+#EXTINF:0 type="stream" channelId="-1", ES || DMAX
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126432
+#EXTINF:0 type="stream" channelId="-1", ES || BE MAD HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126431
+#EXTINF:0 type="stream" channelId="-1", ES || NATIONAL GEOGRAFIC WILD FULLHD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126430
+#EXTINF:0 type="stream" channelId="-1", ES || NATIONAL GEOGRAFIC WILD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126429
+#EXTINF:0 type="stream" channelId="-1", ES || NATIONAL GEOGRAPHIC FULLHD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126428
+#EXTINF:0 type="stream" channelId="-1", ES || NATIONAL GEOGRAFIC WILD HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126427
+#EXTINF:0 type="stream" channelId="-1", ES || NATIONAL GEOGRAPHIC HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126425
+#EXTINF:0 type="stream" channelId="-1", ES || NATIONAL GEOGRAPHIC
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126424
+#EXTINF:0 type="stream" channelId="-1", ES || CANAL COCINA HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126422
+#EXTINF:0 type="stream" channelId="-1", ES || ODISEA
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126423
+#EXTINF:0 type="stream" channelId="-1", ES || CAZA Y PESCA HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126421
+#EXTINF:0 type="stream" channelId="-1", ES || DISCOVERY  CHANNEL
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126420
+#EXTINF:0 type="stream" channelId="-1", ---------Culturales ------------
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126416
+#EXTINF:0 type="stream" channelId="-1", ES || NICK JR
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126415
+#EXTINF:0 type="stream" channelId="-1", ES || NICKELODEON
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126413
+#EXTINF:0 type="stream" channelId="-1", ES || CLAN HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126411
+#EXTINF:0 type="stream" channelId="-1", ES || CANAL PANDA
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126409
+#EXTINF:0 type="stream" channelId="-1", ES || BOING
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126408
+#EXTINF:0 type="stream" channelId="-1", ES || CLAN FULLHD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126407
+#EXTINF:0 type="stream" channelId="-1", ES || DISNEY CHANNEL FULLHD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126405
+#EXTINF:0 type="stream" channelId="-1", ES || DISNEY  XD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126403
+#EXTINF:0 type="stream" channelId="-1", ES || NICKELODEON HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126402
+#EXTINF:0 type="stream" channelId="-1", ES || NOVA
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126399
+#EXTINF:0 type="stream" channelId="-1", ES || BE MAD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126396
+#EXTINF:0 type="stream" channelId="-1", ES || CANAL COCINA FULLHD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126395
+#EXTINF:0 type="stream" channelId="-1", ES || DECASA HS
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126392
+#EXTINF:0 type="stream" channelId="-1", ES || DIVINITY
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126390
+#EXTINF:0 type="stream" channelId="-1", ES || ENERGY
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126389
+#EXTINF:0 type="stream" channelId="-1", ES || A3SERIES
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126387
+#EXTINF:0 type="stream" channelId="-1", ES || MTV
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126384
+#EXTINF:0 type="stream" channelId="-1", ES || AXN WHITE HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126382
+#EXTINF:0 type="stream" channelId="-1", ES || COMEDY  CENTRAL
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126381
+#EXTINF:0 type="stream" channelId="-1", ES || COSMOPOLITAN  FULLHD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126380
+#EXTINF:0 type="stream" channelId="-1", ES || COSMOS HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126379
+#EXTINF:0 type="stream" channelId="-1", ES || CALLE 13 HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126377
+#EXTINF:0 type="stream" channelId="-1", ES || SYFY FHD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126376
+#EXTINF:0 type="stream" channelId="-1", ES || SYFY HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126375
+#EXTINF:0 type="stream" channelId="-1", ES || SYFY
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126374
+#EXTINF:0 type="stream" channelId="-1", ES || TNT FHD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126373
+#EXTINF:0 type="stream" channelId="-1", ES || TNT
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126372
+#EXTINF:0 type="stream" channelId="-1", ES || FOX HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126371
+#EXTINF:0 type="stream" channelId="-1", ES || AMC
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126368
+#EXTINF:0 type="stream" channelId="-1", ES || AXN  WHITE FHD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126367
+#EXTINF:0 type="stream" channelId="-1", ES || AXN  WHITE
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126366
+#EXTINF:0 type="stream" channelId="-1", ES || AXN FULL HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126365
+#EXTINF:0 type="stream" channelId="-1", ES || AXN
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126363
+#EXTINF:0 type="stream" channelId="-1", ES || FOX
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126359
+#EXTINF:0 type="stream" channelId="-1", ES || CALLE 13 FULLHD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126358
+#EXTINF:0 type="stream" channelId="-1", ES || CALLE 13
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126357
+#EXTINF:0 type="stream" channelId="-1", ES || TNT HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126354
+#EXTINF:0 type="stream" channelId="-1", ES || XTREM HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126353
+#EXTINF:0 type="stream" channelId="-1", ES || MOVISTAR SERIES HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126351
+#EXTINF:0 type="stream" channelId="2109", --------- Series -----------
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126349
+#EXTINF:0 type="stream" channelId="-1", ES || PARAMOUNT CHANNEL
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126348
+#EXTINF:0 type="stream" channelId="-1", ES || SOMOS
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126347
+#EXTINF:0 type="stream" channelId="-1", ES || COMEDY CENTRAL HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126345
+#EXTINF:0 type="stream" channelId="-1", ES || MOVISTAR CINEDOC&ROLL HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126344
+#EXTINF:0 type="stream" channelId="-1", ES || XTREM SD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126343
+#EXTINF:0 type="stream" channelId="-1", ES || SUNDANCE FHD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126341
+#EXTINF:0 type="stream" channelId="-1", ES || SUNDANCE
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126340
+#EXTINF:0 type="stream" channelId="-1", ES || TCM FHD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126339
+#EXTINF:0 type="stream" channelId="-1", ES || TCM HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126338
+#EXTINF:0 type="stream" channelId="-1", ES || HOLLYWOOD FHD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126336
+#EXTINF:0 type="stream" channelId="-1", ES || HOLLYWOOD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126335
+#EXTINF:0 type="stream" channelId="-1", ES || HOLLYWOOD HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126334
+#EXTINF:0 type="stream" channelId="-1", ES || MOVISTAR CINEDOC&ROLL
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126332
+#EXTINF:0 type="stream" channelId="-1", ES || MOVISTAR DRAMA FHD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126330
+#EXTINF:0 type="stream" channelId="-1", ES || MOVISTAR DRAMA HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126329
+#EXTINF:0 type="stream" channelId="-1", ES || MOVISTAR  ACCION
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126323
+#EXTINF:0 type="stream" channelId="-1", ES || MOVISTAR ACCION HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126322
+#EXTINF:0 type="stream" channelId="-1", ES || MOVISTAR ESTRENOS
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126320
+#EXTINF:0 type="stream" channelId="-1", ES || MOVISTAR ESTRENOS HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126319
+#EXTINF:0 type="stream" channelId="-1", ES || MOVISTAR 0# FULLHD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126318
+#EXTINF:0 type="stream" channelId="-1", ES || LA SEXTA  FHD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126315
+#EXTINF:0 type="stream" channelId="-1", ES || TELECINCO FULLHD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126312
+#EXTINF:0 type="stream" channelId="-1", ES || TELECINCO
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126310
+#EXTINF:0 type="stream" channelId="-1", ES || CUATRO FHD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126309
+#EXTINF:0 type="stream" channelId="-1", ES || ANTENA 3 FHD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126306
+#EXTINF:0 type="stream" channelId="-1", ES || La 2 FHD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126303
+#EXTINF:0 type="stream" channelId="-1", ES || LA 1 FHD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126301
+#EXTINF:0 type="stream" channelId="-1", SPAIN | FOX HD HEVC
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126282
+#EXTINF:0 type="stream" channelId="-1", SPAIN | MOVISTAR DRAMA HD HEVC
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126279
+#EXTINF:0 type="stream" channelId="-1", SPAIN | COSMO.
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126278
+#EXTINF:0 type="stream" channelId="-1", SPAIN | ODISEA FHD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126277
+#EXTINF:0 type="stream" channelId="-1", SPAIN | MOVISTAR FORMULA 1 HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126276
+#EXTINF:0 type="stream" channelId="-1", SPAIN | MOVISTAR ESTRENOS
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126275
+#EXTINF:0 type="stream" channelId="-1", SPAIN | HISTORIA
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126274
+#EXTINF:0 type="stream" channelId="-1", SPAIN | ACCION HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126272
+#EXTINF:0 type="stream" channelId="-1", 05 | TELENOVELAS HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/8015
+#EXTINF:0 type="stream" channelId="-1", ARG | LA 90 FM
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/7421
+#EXTINF:0 type="stream" channelId="-1", ARG | HBO POP SD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5065
+#EXTINF:0 type="stream" channelId="-1", ARG | TOONCAST SD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5064
+#EXTINF:0 type="stream" channelId="-1", ARG | TNT SERIES SD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5024
+#EXTINF:0 type="stream" channelId="-1", ARG | H2 SD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4960
+#EXTINF:0 type="stream" channelId="-1", ARG | GOLDEN SD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4957
+#EXTINF:0 type="stream" channelId="-1", ARG | GLITZ SD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4956
+#EXTINF:0 type="stream" channelId="-1", ARG | FX SD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4955
+#EXTINF:0 type="stream" channelId="-1", ARG | FOX SPORTS SD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4951
+#EXTINF:0 type="stream" channelId="-1", ARG | FOX SERIES SD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4950
+#EXTINF:0 type="stream" channelId="-1", ARG | FOX MOVIES SD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4949
+#EXTINF:0 type="stream" channelId="-1", ARG | FOX LIFE SD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4948
+#EXTINF:0 type="stream" channelId="-1", ARG | FOX FAMILY SD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4947
+#EXTINF:0 type="stream" channelId="-1", ARG | FOX COMEDY SD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4946
+#EXTINF:0 type="stream" channelId="-1", ARG | FOX CLASSIC SD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4945
+#EXTINF:0 type="stream" channelId="-1", ARG | FOX CINEMA SD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4944
+#EXTINF:0 type="stream" channelId="-1", ARG | FOX ACTION SD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4943
+#EXTINF:0 type="stream" channelId="-1", ARG | FOX SD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4942
+#EXTINF:0 type="stream" channelId="-1", ARG | ESPN EXTRA SD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4941
+#EXTINF:0 type="stream" channelId="-1", ARG | ESPN 3 SD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4940
+#EXTINF:0 type="stream" channelId="-1", ARG | ESPN SD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4938
+#EXTINF:0 type="stream" channelId="-1", ARG | ENLACE TV SD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4937
+#EXTINF:0 type="stream" channelId="-1", ARG | E! ENTERTAIMENTS SD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4936
+#EXTINF:0 type="stream" channelId="-1", ARG | DISNEY XD SD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4935
+#EXTINF:0 type="stream" channelId="-1", ARG | DISNEY CHANNEL SD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4933
+#EXTINF:0 type="stream" channelId="-1", ARG | COMEDY CENTRAL SD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4924
+#EXTINF:0 type="stream" channelId="-1", ARG | CNN ESPANOL SD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4922
+#EXTINF:0 type="stream" channelId="-1", ARG | CINE LATINO SD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4921
+#EXTINF:0 type="stream" channelId="-1", ARG | CDN 37 SD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4920
+#EXTINF:0 type="stream" channelId="-1", ARG | CARTOON NETWORK SD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4919
+#EXTINF:0 type="stream" channelId="-1", ARG | BOOMERANG SD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4917
+#EXTINF:0 type="stream" channelId="-1", ARG | BABY FIRST SD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4914
+#EXTINF:0 type="stream" channelId="-1", ARG | AXN SD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4912
+#EXTINF:0 type="stream" channelId="-1", ARG | ANIMAL PLANET SD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4910
+#EXTINF:0 type="stream" channelId="-1", 04 | RCN NOVELAS
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4896
+#EXTINF:0 type="stream" channelId="-1", 21 | UNICANAL SUR
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4895
+#EXTINF:0 type="stream" channelId="-1", 20 | TELEFUTURO SUR
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4894
+#EXTINF:0 type="stream" channelId="-1", SUR | TELEPACIFICO
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4863
+#EXTINF:0 type="stream" channelId="-1", SUR | RED TELEVISION
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4862
+#EXTINF:0 type="stream" channelId="-1", 05 | AMERICA NEXT SUR
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4861
+#EXTINF:0 type="stream" channelId="-1", SUR | CNN Espanol
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4853
+#EXTINF:0 type="stream" channelId="-1", SUR | CANAL 13
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4847
+#EXTINF:0 type="stream" channelId="-1", SUR | WIN SPORTS
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4812
+#EXTINF:0 type="stream" channelId="-1", SUR | DISCOVERY HOME AND HEALTH
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4809
+#EXTINF:0 type="stream" channelId="-1", SUR | HISTORY CHANNEL
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4808
+#EXTINF:0 type="stream" channelId="-1", SUR | CINEMAX
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4807
+#EXTINF:0 type="stream" channelId="-1", SUR | CINEMA DINAMITA
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4806
+#EXTINF:0 type="stream" channelId="-1", SUR | CINECANAL
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4805
+#EXTINF:0 type="stream" channelId="-1", SUR | TCM
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4804
+#EXTINF:0 type="stream" channelId="-1", SUR | TBS
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4803
+#EXTINF:0 type="stream" channelId="-1", SUR | SPACE
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4802
+#EXTINF:0 type="stream" channelId="-1", SUR | SONY
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4801
+#EXTINF:0 type="stream" channelId="-1", SUR | HBO MUNDI
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4800
+#EXTINF:0 type="stream" channelId="-1", SUR | HBO PLUS
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4799
+#EXTINF:0 type="stream" channelId="-1", SUR | HBO 2
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4797
+#EXTINF:0 type="stream" channelId="-1", SUR | HBO
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4796
+#EXTINF:0 type="stream" channelId="-1", SUR | ESPN 3
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4795
+#EXTINF:0 type="stream" channelId="-1", SUR | ESPN 2
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4794
+#EXTINF:0 type="stream" channelId="-1", SUR | DISNEY XD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4793
+#EXTINF:0 type="stream" channelId="-1", SUR | DISCOVERY TURBO
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4792
+#EXTINF:0 type="stream" channelId="-1", SUR | DISCOVERY KIDS
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4791
+#EXTINF:0 type="stream" channelId="-1", SUR | DISCOVERY INVESTIGATION
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4790
+#EXTINF:0 type="stream" channelId="-1", SUR | FX MOVIES
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4789
+#EXTINF:0 type="stream" channelId="-1", SUR | FX
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4788
+#EXTINF:0 type="stream" channelId="-1", SUR | FOX SPORTS PREMIUM
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4787
+#EXTINF:0 type="stream" channelId="-1", SPORTS | TELEDEPORTE
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4357
+#EXTINF:0 type="stream" channelId="-1", SPORTS | MOVISTAR GOLF FHD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4356
+#EXTINF:0 type="stream" channelId="-1", SPORTS | M. FORMULA 1 FULL HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4355
+#EXTINF:0 type="stream" channelId="-1", SPORTS | ESPORT 3
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4352
+#EXTINF:0 type="stream" channelId="-1", SPORTS | BARCA TV
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4296
+#EXTINF:0 type="stream" channelId="-1", 09- Starz Encore Black HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3892
+#EXTINF:0 type="stream" channelId="-1", 08- Starz Encore Suspense HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3891
+#EXTINF:0 type="stream" channelId="-1", 08 |  LA RED TV HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3824
+#EXTINF:0 type="stream" channelId="-1", 35 | EL TRECE HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3568
+#EXTINF:0 type="stream" channelId="-1", 26 | TELEFE
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3559
+#EXTINF:0 type="stream" channelId="-1", 25 | TELEMAX
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3558
+#EXTINF:0 type="stream" channelId="-1", 23 | TODO NOTICIAS
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3556
+#EXTINF:0 type="stream" channelId="-1", 19 | CANAL DE LA MUSICA
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3552
+#EXTINF:0 type="stream" channelId="50", ANIMAL PLANET
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2800
